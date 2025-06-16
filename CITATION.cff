@@ -1,0 +1,91 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Urban Indicators Dataset: Drinking Water, Urban Heat, and
+  Housing Provision
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ivan
+    family-names: Cardenas-Leon
+    email: i.l.cardenasleon@utwente.nl
+    affiliation: >-
+      Department of Urban and Regional Planning and
+      Geo-Information Management, Faculty of Geo-Information
+      Science and Earth Observation (ITC), University of
+      Twente, Hallenweg 8, Enschede, 7522 NH, Overijssel,
+      Netherlands
+    orcid: 'https://orcid.org/0009-0005-0245-633X'
+  - given-names: Pirouz
+    family-names: Nourian
+    email: p.nourian@utwente.nl
+    affiliation: >-
+      Department of Urban and Regional Planning and
+      Geo-Information Management, Faculty of Geo-Information
+      Science and Earth Observation (ITC), University of
+      Twente, Hallenweg 8, Enschede, 7522 NH, Overijssel,
+      Netherlands
+    orcid: 'https://orcid.org/0000-0002-3817-7931'
+  - given-names: Mila
+    family-names: Koeva
+    email: m.n.koeva@utwente.nl
+    affiliation: >-
+      Department of Urban and Regional Planning and
+      Geo-Information Management, Faculty of Geo-Information
+      Science and Earth Observation (ITC), University of
+      Twente, Hallenweg 8, Enschede, 7522 NH, Overijssel,
+      Netherlands
+    orcid: 'https://orcid.org/0000-0001-7612-5270'
+  - given-names: Karin
+    family-names: Pfeffer
+    email: k.pfeffer@utwente.nl
+    affiliation: >-
+      Department of Urban and Regional Planning and
+      Geo-Information Management, Faculty of Geo-Information
+      Science and Earth Observation (ITC), University of
+      Twente, Hallenweg 8, Enschede, 7522 NH, Overijssel,
+      Netherlands
+    orcid: 'https://orcid.org/0000-0002-6080-1323'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.1003150
+repository-code: >-
+  https://github.com/ivan-cardenas/DigitalPlanning_Indicators/
+url: 'https://ivan-cardenas.github.io/PapersData/DataPaper.html'
+abstract: >-
+  This dataset paper presents a comprehensive compilation of
+  indicators covering three major domains: drinking water
+  supply, urban heat, and housing provision. The data were
+  systematically collected from a wide range of
+  peer-reviewed papers to ensure a robust foundation for
+  both academic research and practical policy analysis. The
+  dataset includes a total of 280 indicators, each
+  categorized and described. The indicators are organized
+  into a relational database format, which allows for easy
+  access and manipulation. The dataset was collected to
+  facilitate cross-sectoral analysis, enabling researchers
+  and practitioners to explore the interconnections between
+  these critical areas of urban planning.
+
+
+  The key indicators are described with clear definitions,
+  calculations, and provenance information. Additionally,
+  the dataset is organized in a relational SQL database,
+  allowing users to perform advanced queries, join
+  operations, and custom analyses. Potential applications
+  span a variety of research areas, such as urban planning,
+  environmental impact assessment, public health, and
+  socio-economic studies.
+keywords:
+  - Urban indicators
+  - Drinking water supply
+  - Urban Heat Stress
+  - Housing Provision
+  - Integrated planning
+  - Data-driven policy
+  - Spatial Planning
+license: CC-BY-NC-SA-4.0
