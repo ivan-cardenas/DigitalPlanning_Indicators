@@ -1,5 +1,5 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-# 📊 Urban Indicators Dataset: Drinking Water, Urban Heat, and Housing Provision
+# 📊Cross sectoral digital planning Drinking Water-Urban Heat-Housing Provision indicators dataset
 
 ## 📝 Description
 
@@ -59,7 +59,7 @@ The database consists of several tables (see **Table 1** in the documentation) a
 
 ~~~
 ---
-##📜 License
+## 📜 License
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
