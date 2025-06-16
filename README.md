@@ -1,4 +1,6 @@
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15676614.svg)](https://doi.org/10.5281/zenodo.15676614)
+
+
 # 📊Cross sectoral digital planning Drinking Water-Urban Heat-Housing Provision indicators dataset
 
 ## 📝 Description
