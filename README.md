@@ -58,7 +58,11 @@ The database consists of several tables (see **Table 1** in the documentation) a
 
 > If you use this dataset, please cite:
 ~~~
-
+@misc{Cardenas-Leon_Urban_Indicators_Dataset,
+author = {Cardenas-Leon, Ivan and Nourian, Pirouz and Koeva, Mila and Pfeffer, Karin},
+title = {{Urban Indicators Dataset: Drinking Water, Urban Heat, and Housing Provision}},
+url = {https://github.com/ivan-cardenas/DigitalPlanning_Indicators/}
+}
 ~~~
 ---
 ## 📜 License
