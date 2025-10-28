@@ -1,0 +1,131 @@
+{
+  "tables": {
+    "research_paper": {
+      "path": "dataset/CSV/Paper.csv",
+      "primary_key": "id",
+      "columns": {
+        "id":            {"type": "integer"},
+        "zotero_id":     {"type": "string"},
+        "title":         {"type": "string"},
+        "year":          {"type": "integer", "min": 1900, "max": 2100},
+        "country":       {"type": "string"}
+      },
+      "foreign_keys": [
+        {"column": "country_id", "ref_table": "countries", "ref_column": "id"}
+      ]
+    },
+
+    "main_table": {
+      "path": "dataset/CSV/MainTable.csv",
+      "primary_key": "id",
+      "columns": {
+        "id":             {"type": "integer"},
+        "indicatorName":   {"type": "integer"},
+        "Lookup Paper":       {"type": "integer"},
+        "comment":        {"type": "string"}
+      },
+      "foreign_keys": [
+        {"column": "indicatorName", "ref_table": "indicators", "ref_column": "id"},
+        {"column": "Lookup Paper",     "ref_table": "Paper", "ref_column": "id"}
+      ]
+    },
+
+    "countries": {
+      "path": "dataset/CSV/countries.csv",
+      "primary_key": "id",
+      "columns": {
+        "id":            {"type": "integer"},
+        "country":       {"type": "string"},
+        "code":          {"type": "string"},
+        "region_id":     {"type": "integer"},
+        "incomeType_ID":     {"type": "integer"}
+      },
+      "foreign_keys": [
+        {"column": "region_id", "ref_table": "region", "ref_column": "id"},
+        {"column": "incomeType_ID", "ref_table": "incometype", "ref_column": "id"}
+      ],
+      "uniques": ["code"]   
+    },
+
+    "region": {
+      "path": "dataset/CSV/region.csv",
+      "primary_key": "id",
+      "columns": {
+        "id":     {"type": "integer"},
+        "region": {"type": "string"}
+      }
+    },
+
+    "incometype": {
+      "path": "dataset/CSV/incometype.csv",
+      "primary_key": "id",
+      "columns": {
+        "id":           {"type": "integer"},
+        "income group": {"type": "string"}
+      }
+    },
+
+    "indicators": {
+      "path": "dataset/CSV/indicators.csv",
+      "primary_key": "id",
+      "columns": {
+        "id":            {"type": "integer"},
+        "indicator":     {"type": "string"},
+        "definition":    {"type": "string"},
+        "units":         {"type": "string"},
+        "calculation":   {"type": "string"},
+        "objective":     {"type": "integer"},
+        "system_part":   {"type": "integer"},
+        "comment":       {"type": "string"}
+      },
+      "foreign_keys": [
+        {"column": "objective",   "ref_table": "objective",    "ref_column": "id"},
+        {"column": "system_part", "ref_table": "system_part",  "ref_column": "id"}
+      ]
+    },
+
+    "objective": {
+      "path": "dataset/CSV/objective.csv",
+      "primary_key": "id",
+      "columns": {
+        "id":       {"type": "integer"},
+        "objective":{"type": "string"},
+        "topic": {"type": "integer"}
+      },
+      "foreign_keys": [
+        {"column": "topic", "ref_table": "topic", "ref_column": "id"}
+      ]
+    },
+
+    "topic": {
+      "path": "dataset/CSV/topic.csv",
+      "primary_key": "id",
+      "columns": {
+        "id":            {"type": "integer"},
+        "indicatorTopic":{"type": "string"},
+        "sector":     {"type": "integer"}
+      },
+      "foreign_keys": [
+        {"column": "sector", "ref_table": "planningSector", "ref_column": "id"}
+      ]
+    },
+
+    "system_parts": {
+      "path": "dataset/CSV/system_parts.csv",
+      "primary_key": "id",
+      "columns": {
+        "id":         {"type": "integer"},
+        "system Part":{"type": "string"}
+      }
+    },
+
+    "planningSector": {
+      "path": "dataset/CSV/planning_sector.csv",
+      "primary_key": "id",
+      "columns": {
+        "id":     {"type": "integer"},
+        "sector": {"type": "string"}
+      }
+    }
+  }
+}

@@ -1,0 +1,223 @@
+ID,Country,Code,Region_ID,IncomeType_ID
+1,Namibia,NAM,8,5
+2,Nauru,NRU,2,2
+3,Nepal,NPL,7,4
+4,Netherlands,NLD,3,2
+5,New Caledonia,NCL,2,2
+6,New Zealand,NZL,2,2
+7,Nicaragua,NIC,4,4
+8,Niger,NER,8,3
+9,Nigeria,NGA,8,4
+10,North Macedonia,MKD,3,5
+11,Northern Mariana Islands,MNP,2,2
+12,Norway,NOR,3,2
+13,Oman,OMN,5,2
+14,Pakistan,PAK,7,4
+15,Palau,PLW,2,2
+16,Panama,PAN,4,2
+17,Papua New Guinea,PNG,2,4
+18,Paraguay,PRY,4,5
+19,Peru,PER,4,5
+20,Philippines,PHL,2,4
+21,Poland,POL,3,2
+22,Portugal,PRT,3,2
+23,Puerto Rico,PRI,4,2
+24,Qatar,QAT,5,2
+25,Romania,ROU,3,2
+26,Russian Federation,RUS,3,2
+27,Rwanda,RWA,8,3
+28,Samoa,WSM,2,4
+29,San Marino,SMR,3,2
+30,São Tomé and Príncipe,STP,8,4
+31,Saudi Arabia,SAU,5,2
+32,Senegal,SEN,8,4
+33,Serbia,SRB,3,5
+34,Seychelles,SYC,8,2
+35,Sierra Leone,SLE,8,3
+36,Singapore,SGP,2,2
+37,Sint Maarten (Dutch part),SXM,4,2
+38,Slovak Republic,SVK,3,2
+39,Slovenia,SVN,3,2
+40,Solomon Islands,SLB,2,4
+41,Somalia,SOM,8,3
+42,South Africa,ZAF,8,5
+43,South Sudan,SSD,8,3
+44,Spain,ESP,3,2
+45,Sri Lanka,LKA,7,4
+46,St. Kitts and Nevis,KNA,4,2
+47,St. Lucia,LCA,4,5
+48,St. Martin (French part),MAF,4,2
+49,St. Vincent and the Grenadines,VCT,4,5
+50,Sudan,SDN,8,3
+51,Suriname,SUR,4,5
+52,Sweden,SWE,3,2
+53,Switzerland,CHE,3,2
+54,Syrian Arab Republic,SYR,5,3
+55,"Taiwan, China",TWN,2,2
+56,Tajikistan,TJK,3,4
+57,Tanzania,TZA,8,4
+58,Thailand,THA,2,5
+59,Timor-Leste,TLS,2,4
+60,Togo,TGO,8,3
+61,Tonga,TON,2,5
+62,Trinidad and Tobago,TTO,4,2
+63,Tunisia,TUN,5,4
+64,Türkiye,TUR,3,5
+65,Turkmenistan,TKM,3,5
+66,Turks and Caicos Islands,TCA,4,2
+67,Tuvalu,TUV,2,5
+68,Uganda,UGA,8,3
+69,Ukraine,UKR,3,5
+70,United Arab Emirates,ARE,5,2
+71,United Kingdom,GBR,3,2
+72,United States,USA,6,2
+73,Uruguay,URY,4,2
+74,Uzbekistan,UZB,3,4
+75,Vanuatu,VUT,2,4
+76,"Venezuela, RB",VEN,4,1
+77,Vietnam,VNM,2,4
+78,Virgin Islands (U.S.),VIR,4,2
+79,West Bank and Gaza,PSE,5,4
+80,"Yemen, Rep.",YEM,5,3
+81,Zambia,ZMB,8,4
+82,Zimbabwe,ZWE,8,4
+134,Afghanistan,AFG,7,3
+135,Albania,ALB,3,5
+136,Algeria,DZA,5,5
+137,American Samoa,ASM,2,2
+138,Andorra,AND,3,2
+139,Angola,AGO,8,4
+140,Antigua and Barbuda,ATG,4,2
+141,Argentina,ARG,4,5
+142,Armenia,ARM,3,5
+143,Aruba,ABW,4,2
+144,Australia,AUS,2,2
+145,Austria,AUT,3,2
+146,Azerbaijan,AZE,3,5
+147,"Bahamas, The",BHS,4,2
+148,Bahrain,BHR,5,2
+149,Bangladesh,BGD,7,4
+150,Barbados,BRB,4,2
+151,Belarus,BLR,3,5
+152,Belgium,BEL,3,2
+153,Belize,BLZ,4,5
+154,Benin,BEN,8,4
+155,Bermuda,BMU,6,2
+156,Bhutan,BTN,7,4
+157,Bolivia,BOL,4,4
+158,Bosnia and Herzegovina,BIH,3,5
+159,Botswana,BWA,8,5
+160,Brazil,BRA,4,5
+161,British Virgin Islands,VGB,4,2
+162,Brunei Darussalam,BRN,2,2
+163,Bulgaria,BGR,3,2
+164,Burkina Faso,BFA,8,3
+165,Burundi,BDI,8,3
+166,Cabo Verde,CPV,8,4
+167,Cambodia,KHM,2,4
+168,Cameroon,CMR,8,4
+169,Canada,CAN,6,2
+170,Cayman Islands,CYM,4,2
+171,Central African Republic,CAF,8,3
+172,Chad,TCD,8,3
+173,Channel Islands,CHI,3,2
+174,Chile,CHL,4,2
+175,China,CHN,2,5
+176,Colombia,COL,4,5
+177,Comoros,COM,8,4
+178,"Congo, Dem. Rep.",COD,8,3
+179,"Congo, Rep.",COG,8,4
+180,Costa Rica,CRI,4,5
+181,Côte d’Ivoire,CIV,8,4
+182,Croatia,HRV,3,2
+183,Cuba,CUB,4,5
+184,Curaçao,CUW,4,2
+185,Cyprus,CYP,3,2
+186,Czechia,CZE,3,2
+187,Denmark,DNK,3,2
+188,Djibouti,DJI,5,4
+189,Dominica,DMA,4,5
+190,Dominican Republic,DOM,4,5
+191,Ecuador,ECU,4,5
+192,"Egypt, Arab Rep.",EGY,5,4
+193,El Salvador,SLV,4,5
+194,Equatorial Guinea,GNQ,8,5
+195,Eritrea,ERI,8,3
+196,Estonia,EST,3,2
+197,Eswatini,SWZ,8,4
+198,Ethiopia,ETH,8,3
+199,Faroe Islands,FRO,3,2
+200,Fiji,FJI,2,5
+201,Finland,FIN,3,2
+202,France,FRA,3,2
+203,French Polynesia,PYF,2,2
+204,Gabon,GAB,8,5
+205,"Gambia, The",GMB,8,3
+206,Georgia,GEO,3,5
+207,Germany,DEU,3,2
+208,Ghana,GHA,8,4
+209,Gibraltar,GIB,3,2
+210,Greece,GRC,3,2
+211,Greenland,GRL,3,2
+212,Grenada,GRD,4,5
+213,Guam,GUM,2,2
+214,Guatemala,GTM,4,5
+215,Guinea,GIN,8,4
+216,Guinea-Bissau,GNB,8,3
+217,Guyana,GUY,4,2
+218,Haiti,HTI,4,4
+219,Honduras,HND,4,4
+220,"Hong Kong SAR, China",HKG,2,2
+221,Hungary,HUN,3,2
+222,Iceland,ISL,3,2
+223,India,IND,7,4
+224,Indonesia,IDN,2,5
+225,"Iran, Islamic Rep.",IRN,5,5
+226,Iraq,IRQ,5,5
+227,Ireland,IRL,3,2
+228,Isle of Man,IMN,3,2
+229,Israel,ISR,5,2
+230,Italy,ITA,3,2
+231,Jamaica,JAM,4,5
+232,Japan,JPN,2,2
+233,Jordan,JOR,5,4
+234,Kazakhstan,KAZ,3,5
+235,Kenya,KEN,8,4
+236,Kiribati,KIR,2,4
+237,"Korea, Dem. People's Rep.",PRK,2,3
+238,"Korea, Rep.",KOR,2,2
+239,Kosovo,XKX,3,5
+240,Kuwait,KWT,5,2
+241,Kyrgyz Republic,KGZ,3,4
+242,Lao PDR,LAO,2,4
+243,Latvia,LVA,3,2
+244,Lebanon,LBN,5,4
+245,Lesotho,LSO,8,4
+246,Liberia,LBR,8,3
+247,Libya,LBY,5,5
+248,Liechtenstein,LIE,3,2
+249,Lithuania,LTU,3,2
+250,Luxembourg,LUX,3,2
+251,"Macao SAR, China",MAC,2,2
+252,Madagascar,MDG,8,3
+253,Malawi,MWI,8,3
+254,Malaysia,MYS,2,5
+255,Maldives,MDV,7,5
+256,Mali,MLI,8,3
+257,Malta,MLT,5,2
+258,Marshall Islands,MHL,2,5
+259,Mauritania,MRT,8,4
+260,Mauritius,MUS,8,5
+261,Mexico,MEX,4,5
+262,"Micronesia, Fed. Sts.",FSM,2,4
+263,Moldova,MDA,3,5
+264,Monaco,MCO,3,2
+265,Mongolia,MNG,2,5
+266,Montenegro,MNE,3,5
+267,Morocco,MAR,5,4
+268,Mozambique,MOZ,8,3
+269,Myanmar,MMR,2,4
+270,World,WLD,1,1
+271,Multi-City,MC,1,1
+272,Virtual,VS,1,1
+275,Africa,AF,1,1

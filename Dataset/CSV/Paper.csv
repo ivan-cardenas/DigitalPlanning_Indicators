@@ -1,0 +1,561 @@
+ID,ZoteroID,Title,Year,Country
+13,jwwaGuidelinesManagement05,<div>Guidelines for the management and assessment of drinking water services</div>,2005,Japan
+14,adbHandbookSelecting15,<div>Handbook for Selecting Performance Indicators for ADB-funded Projects in the PRC</div>,2015,China
+15,oecdWaterUtility11,<div>Water Utility Performance Indicators (IBNET)</div>,2011,World
+16,bhattPoliticsPerformance24,<div>The Politics of Performance Benchmarking in Urban Water Supply: Sacrificing Equity on the Altar of Efficiency</div>,2024,India
+17,bolognesiAssessingSociotechnical21,<div>Assessing socio-technical resistance to public policy instruments: Insights from water performance indicators in the Grenoble area (France)</div>,2021,France
+19,canteleNewFramework18,<div>Local indices within a mathematical framework for urban water distribution systems</div>,2019,World
+20,carricoInformationSystem23,<div>An Information System for Infrastructure Asset Management Tailored to Portuguese Water Utilities: Platform Conceptualization and a Prototype Demonstration</div>,2023,Portugal
+21,changWaterSecurity21,<div>Water security of the megacities in the Yangtze River basin: Comparative assessment and policy implications</div>,2021,China
+22,chapagainUrbanWater22,<div>Urban water security: A comparative assessment and policy analysis of five cities in diverse developing countries of Asia</div>,2022,Multi-City
+23,daiIndexSystem22,<div>Index System of Water Resources Development and Utilization Level Based on Water-Saving Society</div>,2022,China
+24,declercqIdentificationUrban18,<div>Identification of urban drinking water supply patterns across 627 cities in China based on supervised and unsupervised statistical learning</div>,2018,China
+25,dongBenchmarkingSustainability18,<div>Benchmarking sustainability of urban water infrastructure systems in China</div>,2018,China
+26,gidionConsistencyEfficiency19,<div>Consistency in efficiency benchmarking: Urban water utility regulation with performance improvement</div>,2019,Tanzania
+27,babelMeasuringWater20,<div>Measuring water security: A vital step for climate change adaptation</div>,2020,Thailand
+28,haakWaterEconomyNexus20,<div>The Water-Economy Nexus: a Composite Index Approach to Evaluate Urban Water Vulnerability</div>,2020,United States
+29,halkijevicIndicatorsNeuroFuzzy17,<div>Indicators and a Neuro-Fuzzy Based Model for the Evaluation of Water Supply Sustainability</div>,2017,Croatia
+30,kaurInvestigatingTemporal22,<div>Investigating temporal dynamics of urban densification on the buried water infrastructure performance</div>,2022,Canada
+31,khelladiStudyPerformance22,"<div>Study of the performance of the drinking water supply network: case of the new urban pole of Boujlida (City of Tlemcen, Algeria)</div>",2022,Algeria
+32,morleyDecisionSupport16,<div>Decision support system for metabolism-based transition to urban water systems of tomorrow</div>,2016,United Kingdom
+33,namavarDevelopingIndicatorbased23,<div>Developing an indicator-based assessment framework for assessing the sustainability of urban water management</div>,2023,"Iran, Islamic Rep."
+36,reyesMitigationOptions17,<div>Mitigation options for futurewater scarcity: A case study in Santa Cruz Island (Galapagos Archipelago)</div>,2017,Ecuador
+37,smithContributionUrban16,<div>Contribution of Urban Water Supply to Greenhouse Gas Emissions in China</div>,2016,China
+38,srivastavaComparingMulticriteria23,<div>Comparing multi-criteria models for ranking the Performance of India's water supply utilities</div>,2023,India
+39,tholiyaUrbanWater22,"<div>Urban Water Security: Geospatial Assessment For Water Supply Services In Pune, India</div>",2022,India
+40,yuanDevelopmentMultidimensional23,"<div>Development of multidimensional water poverty in the Yangtze River Economic Belt, China</div>",2023,China
+41,zhuUrbanWater20,<div>Urban water security assessment in the context of sustainability and urban water management transitions: An empirical study in Shanghai</div>,2020,China
+43,barrosAssessmentEconomic23,<div>Assessment of the economic sustainability of water capture from surface and underground water sources to supply urban areas</div>,2023,Brazil
+44,batistaMethodologyDetermining22,<div>Methodology for Determining Sustainable Water Consumption Indicators for Buildings</div>,2022,Brazil
+1,aboelngaAssessingWater20,"<div><font face=""Aptos Display"" color=black>Assessing Water Security in Water-Scarce Cities:</font></div><div><font face=""Aptos Display"" color=black>Applying the Integrated Urban Water Security Index</font></div><div><font face=""Aptos Display"" color=black>(IUWSI) in Madaba, Jordan</font></div>",2020,Jordan
+2,alnaamaniOperationalTechnical21,<div>Operational and technical performance of a water distribution network in Oman</div>,2021,Oman
+3,alwathafApplicationIntegrated24,"<div>Application of Integrated Urban Water Security</div><div>Index (IUWSI) in Sana’a, Yemen (Case study)</div>",2024,"Yemen, Rep."
+5,amaralDriversWater23,<div><font size=2>Drivers of water utilities? operational performance-An analysis from the Portuguese case</font></div>,2023,Portugal
+6,antonioCompositeIndicator22,"<div><font size=2 color=black style=""BACKGROUND-COLOR:#FFFFFF"">A composite indicator index as a proxy for measuring the quality of water supply as perceived by users for urban water services </font></div>",2022,Spain
+9,assefaDevelopmentGeneric19,"<div>Development of a Generic Domestic Water Security Index, and Its Application in Addis Ababa, Ethiopia</div>",2018,Ethiopia
+10,balekelayiComparisonPerformance22,"<div>Comparison of the Performance of a Surrogate Based Gaussian Process, NSGA2 and PSO Multi-objective Optimization of the Operation and Fuzzy Structural Reliability of Water Distribution System: Case Study for the City of Asmara, Eritrea</div>",2022,Eritrea
+11,bandariDeterminantsCapita21,<div>Determinants of per capita water supply in Indian cities with low surface water availability</div>,2021,India
+12,alegrePerformanceIndicators16,<div>Performance Indicators for Water Supply Services: Third Edition</div>,2016,World
+255,bekerFuzzyLogicbased22,Fuzzy Logic-Based Integrated Performance Evaluation of a Water Distribution Network,2022,Ethiopia
+261,carneiroExploratoryAnalysis23,Exploratory Analysis of Surrogate Metrics to Assess the Resilience of Water Distribution Networks,2023,Portugal
+262,carneiroIntegratingUncertainty24,Integrating Uncertainty in Performance Assessment of Water Distribution Networks by Scenario Building,2024,Portugal
+264,carricoMulticriteriaDecision21,Multi-Criteria Decision Analysis in Urban Water Asset Management,2021,Portugal
+265,chaiResearchPerformance22,"Research on Performance Evaluation and Obstacle Diagnosis for Urban Water Ecological Civilization Construction Based on GFAHP-cloud-FSE Model: The Case of Shizuishan, China",2022,China
+268,chenSustainableCities23,Towards Sustainable Cities: Studying Evaluation Index of Water Environment Carrying Capacity,2023,China
+269,cimellaroNewResilience16,New Resilience Index for Urban Water Distribution Networks,2016,Italy
+270,coleCentralizedDecentralized18,Centralized and Decentralized Strategies for Dual Water Supply: Case Study,2018,United States
+271,creacoCombinedUse16,The Combined Use of Resilience and Loop Diameter Uniformity as a Good Indirect Measure of Network Reliability,2016,Virtual
+273,dasallasDevelopmentApplication24,Development and Application of Technical Key Performance Indicators (KPIs) for Smart Water Cities (SWCs) Global Standards and Certification Schemes,2024,"Korea, Rep."
+275,dengComprehensiveEvaluation22,"Comprehensive Evaluation on Urban Water Security Based on the Novel DPEBLR Concept Model and the Cloud Matter-Element Model: A Case Study of Chongqing, China",2022,China
+277,dongComprehensiveEvaluation18,"Comprehensive Evaluation Ofwater Resource Security: Case Study from Luoyang City, China",2018,China
+278,esmailiOrganizationalCompetency17,Organizational Competency in Urban Water Infrastructure Asset Management,2017,Multi-City
+279,felisaSustainabilityAnalysis19,Sustainability Analysis of Alternative Long-Term Management Strategies for Water Supply Systems: A Case Study in Reggio Emilia (Italy),2019,Italy
+280,fullertonShortTermForecasting16,Short-Term Forecasting Analysis for Municipal Water Demand,2016,United States
+281,garcez-de-oliveiraSustainabilityIndicators22,Sustainability Indicators for Evaluation of Municipal Urban Water Management System: The Case of Volta Redonda -- RJ/ Brazil,2022,Brazil
+282,garciaMethodologyAssessing24,Methodology for Assessing Progress in Sustainable Development Goals Indicators in Urban Water Systems. How Far Are We from the 2030 Targets?,2024,World
+286,goswamiDevelopmentWater24,The Development of Water Security Index in Urbanized Sub-Himalayan Region: The Study of Jammu City,2024,India
+290,hoepersIntegratedApproach24,An Integrated Approach to Decision-Making Variables on Urban Water Systems Using an Urban Water Use (UWU) Decision-Support Tool,2024,Brazil
+291,honey-rosesMetricsMethods19,Metrics and Methods for Comparing Water Utility Rate Structures,2019,Canada
+292,jabariAssessmentUrban20,Assessment of the Urban Water Security in a Severe Water Stress Area-Application to Palestinian Cities,2020,West Bank and Gaza
+293,jensenUrbanWater20,Urban Water Systems: Development of Microlevel Indicators to Support Integrated Policy,2020,Indonesia
+294,karamouzReliabilityBasedAssessment17,Reliability-Based Assessment of Lifecycle Cost of Urban Water Distribution Infrastructures,2017,"Iran, Islamic Rep."
+296,kemendiImpactPropoor18,The Impact of Pro-Poor Interventions on the Performance Indicators of a Water Utility: Case Studies of Nakuru and Kisumu,2018,Kenya
+297,kharmylliemAssessingSustainability21,"Assessing the Sustainability of Urban Water Supply Systems in Shillong, India",2021,India
+299,kizilozNewPerformance21,A New Performance Analysis Model for Urban Water Supply Systems Evaluation,2021,Türkiye
+300,kofinasSimulationWater20,Simulation of a Water Distribution Network with Key Performance Indicators for Spatio-Temporal Analysis and Operation of Highly Stressed Water Infrastructure,2020,Greece
+302,lamEnergyUse17,Energy Use for Water Provision in Cities,2017,Multi-City
+304,lesterGoingBasic18,Going beyond Basic Access to Improved Water Sources: Towards Deriving a Water Accessibility Index,2018,Jamaica
+305,liPerformanceEvaluation20,Performance Evaluation for Urban Water Supply Services in China,2020,China
+306,liuResilienceAssessment21,Resilience Assessment and Critical Point Identification for Urban Water Supply Systems under Uncertain Scenarios,2021,China
+308,machariaExaminingRelative21,Examining the Relative Impact of Drivers on Energy Input for Municipal Water Supply in Africa,2021,Africa
+309,mamadeComprehensiveWell17,A Comprehensive and Well Tested Energy Balance for Water Supply Systems,2017,United States
+310,marlimEnergyIntensitybased23,Energy Intensity-Based Metric for Optimal Design of Water Distribution Systems,2023,United States
+311,martinezEnhancingReclaimed24,Enhancing Reclaimed Water Distribution Network Resilience with Cost-Effective Meshing,2024,Spain
+312,mauryaIdentificationIndicators20,Identification of Indicators for Sustainable Urban Water Development Planning,2020,India
+320,nyathikalaPerformanceMeasurement20,Performance Measurement of Water Supply Services: A Cross-Country Comparison between India and the UK,2020,Multi-City
+321,nyathikalaPerformanceProductivity17panAnalysisTrend21,Performance and Productivity Measurement of Urban Water Supply Services in India,2017,India
+322,padowskiOvercomingUrban16,Overcoming Urban Water Insecurity with Infrastructure and Institutions,2016,Multi-City
+324,parweenAnalyticalHierarchy24,An Analytical Hierarchy Process Approach for Prioritization of Objectives and Parameters for an Integrated Urban Water Management,2024,India
+325,parweenIdentificationIndicators23,"Identification of Indicators for Developing an Integrated Study on Urban Water Supply System, Planning, and Management",2023,India
+326,radAnalysingWater19,Analysing Water Use Efficiency and Productivity in Iran's Metropolises,2019,"Iran, Islamic Rep."
+327,raybiswasDevelopmentApplication23,Development and Application of Regional Urban Water Security Indicators,2023,Australia
+328,renoufUrbanWater17,Urban Water Metabolism Indicators Derived from a Water Mass Balance -- Bridging the Gap between Visions and Performance Assessment of Urban Water Resource Management,2017,Australia
+330,rocheraDefiningComplementary19,Defining Complementary Tools to the IVI. The Infrastructure Degradation Index (IDI) and the Infrastructure Histogram (HI),2019,Multi-City
+332,rushforthVulnerabilityResilience16,"The Vulnerability and Resilience of a City's Water Footprint: The Case of Flagstaff, Arizona, USA",2016,United States
+333,schreursApplicationCity18,Application of the City Blueprint Approach to Assess the Challenges of Water Management and Governance in Quito (Ecuador),2018,Ecuador
+334,shahabiFrameworkPlanning17,A Framework for Planning Sustainable Seawater Desalination Water Supply,2017,Australia
+336,simonsVirtualTracers20,Virtual Tracers to Detect Sources of Water and Track Water Reuse across a River Basin,2020,Spain
+337,skrydstrupIncorporatingObjectives20,Incorporating Objectives of Stakeholders in Strategic Planning of Urban Water Management,2020,Denmark
+339,smithImpactUrban16,Impact of Urban Water Supply on Energy Use in China: A Provincial and National Comparison,2016,China
+340,sousaUseCauseeffect20,Use of Cause-Effect Indicators for the Diagnosis of Water Sustainability in the Balearic Islands (Spain),2020,Spain
+345,tianAnalysisSpatial23,Analysis of Spatial and Temporal Variation in Sustainable Water Resources and Their Use Based on Improved Combination Weights,2023,China
+347,tiburcioProposalUrban20,Proposal for an Urban Water Indicators Framework for Mexico City 2005-2018,2020,Mexico
+348,tirumalaHouseholdExpenditure22,Household Expenditure and Accessibility of Water in Urban India,2022,India
+349,vanleeuwenChallengesWater16,The Challenges of Water Governance in Ho Chi Minh City,2016,Vietnam
+350,venkateshMetabolismmodellingApproaches17,Metabolism-Modelling Approaches to Long-Term Sustainability Assessment of Urban Water Services,2017,Sweden
+351,wangWaterResources18,Water Resources Carrying Capacity Evaluation of a Dense City Group: A Comprehensive Water Resources Carrying Capacity Evaluation Model of Wuhan Urban Agglomeration,2018,China
+353,yooSeismicHazard16,Seismic Hazard Assessment Model for Urban Water Supply Networks,2016,"Korea, Rep."
+356,zhalmurziyevaAssessmentSustainability24,Assessment of Sustainability Indicators for Urban Water Infrastructure in a Developing Country,2024,Kazakhstan
+357,zhouWaterResource23,"Water Resource Security Assessment and Prediction in a Changing Natural and Social Environment: Case Study of the Yanhe Watershed, China",2023,China
+358,aceroModellingInfluence21,<div>Modelling the influence of high-rise urban geometry on outdoor thermal comfort in Singapore</div>,2021,Singapore
+359,agathangelidisIntegratingUrban19,"<div><font face=""Aptos (Detail)"" color=""#2E2E2E""style=""BACKGROUND-COLOR:#FFFFFF"">Integrating urban form, function, and energy fluxes in a heat exposure indicator in view of intra-urban heat island assessment and climate change adaptation</font></div>",2019,Greece
+360,aghamolaeiTempospatialModelling20,<div>A tempo-spatial modelling framework to assess outdoor thermal comfort of complex urban neighbourhoods</div>,2020,"Iran, Islamic Rep."
+361,ahmadiRoleNeighborhood22,<div>The role of neighborhood morphology in enhancing thermal comfort and resident's satisfaction</div>,2022,"Iran, Islamic Rep."
+362,ahnComparingApproximated24,<div>Comparing approximated heat stress measures across the united states</div>,2024,United States
+363,alfonso-solarMonitoringEvaluation19,<div>Monitoring and evaluation of thermal comfort in urban areas: application to Valencia city</div>,2019,Spain
+364,alijaniNewApproach20,"<div>A new approach of urban livability in Tehran: Thermal comfort as a primitive indicator. Case study, district 22</div>",2020,"Iran, Islamic Rep."
+365,amaripadathMulticriteriaDecision24,<div>Multi-criteria decision support framework for outdoor heat stress management in urban environments</div>,2024,United States
+366,anOutdoorThermal21,<div>Outdoor thermal comfort during winter in China's cold regions: A comparative study</div>,2021,China
+367,araqueBiomimicrybasedStrategies21,<div>Biomimicry-based strategies for urban heat island mitigation: a numerical case study under tropical climate</div>,2021,Panama
+368,arunabQuantifyingUrban24,<div>Quantifying urban heat island and pollutant nexus: A novel geospatial approach</div>,2024,India
+369,beldaSensitivityAnalysis21,<div>Sensitivity analysis of the PALM model system 6.0 in the urban environment</div>,2021,Czechia
+427,hadianpourEffectsWindward19,Effects of Windward and Leeward Wind Directions on Outdoor Thermal and Wind Sensation in Tehran,2019,"Iran, Islamic Rep."
+428,halderEvaluationClimate21,Evaluation of the Climate Change Impact on Urban Heat Island Based on Land Surface Temperature and Geospatial Indicators,2021,India
+429,hanEffectUrban23,Effect of Urban Built-up Area Expansion on the Urban Heat Islands in Different Seasons in 34 Metropolitan Regions across China,2023,China
+430,hanHow2D23,How Do 2D/3D Urban Landscapes Impact Diurnal Land Surface Temperature: Insights from Block Scale and Machine Learning Algorithms,2023,China
+431,hanSeasonalEffects23,"Seasonal Effects of Urban Morphology on Land Surface Temperature in a Three-Dimensional Perspective: A Case Study in Hangzhou, China",2023,China
+432,hegazyThermalComfort20,"Thermal Comfort of Urban Spaces Using Simulation Tools Exploring Street Orientation Influence of on the Outdoor Thermal Comfort: A Case Study of Jeddah, Saudi Arabia",2020,Saudi Arabia
+433,heImpactsGreenbluegrey23,Impacts of Green-Blue-Grey Infrastructures on High-Density Urban Thermal Environment at Multiple Spatial Scales: A Case Study in Wuhan,2023,China
+434,heImprovingChildrens23,Improving Children's Outdoor Thermal Comfort: A Field Study in China's Severely Cold Regions,2023,China
+435,hoangAssessingHeat22,Assessing Heat Index Changes in the Context of Climate Change: A Case Study of Hanoi (Vietnam),2022,Vietnam
+436,hosseinihaghighiUsingClimatesensitive20,Using Climate-Sensitive 3d City Modeling to Analyze Outdoor Thermal Comfort in Urban Areas,2020,Canada
+437,huangAssessmentSummer23,Assessment of Summer Regional Outdoor Heat Stress and Regional Comfort in the Beijing-Tianjin-Hebei Agglomeration over the Last 40 Years,2023,China
+438,huAssessingImpact23,Assessing the Impact of Spatiotemporal Land Cover Changes on the Urban Heat Islands in Developing Cities with Landsat Data: A Case Study in Zhanjiang,2023,China
+439,huGreenspaceConfiguration21,Greenspace Configuration Impact on the Urban Heat Island in the Olympic Area of Beijing,2021,China
+440,huModelingImpact20,Modeling the Impact of 2D/3D Urban Indicators on the Urban Heat Island over Different Seasons: A Boosted Regression Tree Approach,2020,China
+441,ibrahimOptimisationUrban21,"On the Optimisation of Urban Form Design, Energy Consumption and Outdoor Thermal Comfort Using a Parametric Workflow in a Hot Arid Zone",2021,"Egypt, Arab Rep."
+442,imranAnalysisMapping20,"Analysis and Mapping of Present and Future Drivers of Local Urban Climate Using Remote Sensing: A Case of Lahore, Pakistan",2020,Pakistan
+443,ivanovichStickinessNew24,Stickiness: A New Variable to Characterize the Temperature and Humidity Contributions toward Humid Heat,2024,World
+444,jangRolesUrban20,Roles of Urban Heat Anomaly and Land-Use/Land-Cover on the Heat-Related Mortality in the National Capital Region of South Korea: A Multi-Districts Time-Series Study,2020,"Korea, Rep."
+445,jankuIncreaseUrban24,The Increase in Urban Heat Due to Global Warming Can Be Significantly Affected by the Structure of the Land Use and Land Cover,2024,Czechia
+446,jaredrennieDevelopingValidating21,Developing and Validating Heat Exposure Products Using the U.S. Climate Reference Network,2021,United States
+447,jato-espinoArcUHIGIS22,ArcUHI: A GIS Add-in for Automated Modelling of the Urban Heat Island Effect through Machine Learning,2022,Spain
+448,jiangFeaturesUrban19,Features of Urban Heat Island in Mountainous Chongqing from a Dense Surface Monitoring Network,2019,China
+449,jinUpdatedEstimate20,An Updated Estimate of the Urban Heat Island Effect on Observed Local Warming Trends in Mainland China's 45 Urban Stations,2020,China
+450,joshiAssessingUrban24,Assessing Urban Heat Island Mitigation Potential of Realistic Roof Greening across Local Climate Zones: A Highly-Resolved Weather Research and Forecasting Model Study,2024,Netherlands
+451,kackerHeatStress24,"Heat Stress Risk at an Intra-Urban Level: A Case Study of Delhi, India",2024,India
+452,kamalChangesWet24,Changes in Wet Bulb Globe Temperature and Risk to Heat-Related Hazards in Bangladesh,2024,Bangladesh
+453,karimiEvaluationThermal20,Evaluation of the Thermal Indices and Thermal Comfort Improvement by Different Vegetation Species and Materials in a Medium-Sized Urban Park,2020,"Iran, Islamic Rep."
+454,karthikeyaImpactLand24,"Impact of Land Transition around Eastern Economic Corridor in Thailand in the Context of SDG 11.3.1 Using Urban Heat Islands, Nighttime Light Intensity and Machine Learning",2024,Thailand
+455,kastnerEddy3DToolkit22,Eddy3D: A Toolkit for Decoupled Outdoor Thermal Comfort Simulations in Urban Areas,2022,United States
+456,kenawyEffectsCultural21,"Effects of Cultural Diversity and Climatic Background on Outdoor Thermal Perception in Melbourne City, Australia",2021,Australia
+457,kenawySummerOutdoor21,Summer Outdoor Thermal Benchmarks in Melbourne: Applications of Different Techniques,2021,Australia
+458,khorramiEvaluationEnvironmental21,"Evaluation of the Environmental Impacts of Urbanization from the Viewpoint of Increased Skin Temperatures: A Case Study from Istanbul, Turkey",2021,Türkiye
+459,koopmansStandardizedPhysical20,A Standardized Physical Equivalent Temperature Urban Heat Map at 1-m Spatial Resolution to Facilitate Climate Stress Tests in the Netherlands,2020,Netherlands
+460,kupachApplicationGIS22,Application of GIS Methods and LANDSAT Satellite Data in Studies of Recreational Urban Space of Kyiv,2022,Ukraine
+461,labdaouiUtilizingThermal21,Utilizing Thermal Comfort and Walking Facilities to Propose a Comfort Walkability Index (CWI) at the Neighbourhood Level,2021,Algeria
+462,lamAssessmentUrban23,Assessment of Urban Physical Features on Summer Thermal Perceptions Using the Local Climate Zone Classification,2023,Australia
+463,landichoINTRAURBANHEAT19,INTRA-URBAN HEAT ISLAND DETECTION and TREND CHARACTERIZATION in METRO MANILA USING SURFACE TEMPERATURES DERIVED from MULTI-TEMPORAL LANDSAT DATA,2019,Philippines
+464,lauOutdoorThermal19,Outdoor Thermal Comfort in Different Urban Settings of Sub-Tropical High-Density Cities: An Approach of Adopting Local Climate Zone (LCZ) Classification,2019,"Hong Kong SAR, China"
+465,lauwaetHighResolution24,High Resolution Modelling of the Urban Heat Island of 100 European Cities,2024,Europe
+466,leeSkyView19,Sky View Factor and Sunshine Factor of Urban Geometry for Urban Heat Island and Renewable Energy,2019,United Kingdom
+467,leroyLongTime20,"Long Time Series Spatialized Data for Urban Climatological Studies: A Case Study of Paris, France",2020,France
+468,liangRelationshipUrban20,The Relationship between Urban Form and Heat Island Intensity along the Urban Development Gradients,2020,China
+469,liangSpatiotemporalInteraction22,Spatiotemporal Interaction between Urban Heat Island and Urban-Construction Indicators on the Block Scale in Autumn in a Humid and Hot Climate,2022,China
+470,liCharacteristicsTrend19,Characteristics and Trend Analysis of the Relationship between Land Surface Temperature and Nighttime Light Intensity Levels over China,2019,China
+471,liCharacterizingIndicatorbased23,"Characterizing the Indicator-Based, Day-and-Night, and Climate-Based Variations in Response of Surface Urban Heat Island during Heat Wave across Global 561 Cities",2023,World
+472,liCharacterizingTemporal22,"Characterizing Temporal Dynamics of Urban Heat Island in a Rapidly Expanding City: A 39 Years Study in Zhengzhou, China",2022,China
+473,liComparativeAnalysis21,Comparative Analysis of Variations and Patterns between Surface Urban Heat Island Intensity and Frequency across 305 Chinese Cities,2021,China
+474,liComparingLand23,Comparing Land Surface Temperature and Mean Radiant Temperature for Urban Heat Mapping in Philadelphia,2023,United States
+475,liImpactsNorth19,Impacts of the North Atlantic Subtropical High on Interannual Variation of Summertime Heat Stress over the Conterminous United States,2019,United States
+476,liImpactsSpatial24,Impacts of Spatial Explanatory Variables on Surface Urban Heat Island Intensity between Urban and Suburban Regions in China,2024,China
+477,liInfluenceUrban20,The Influence of Urban Spatial Pattern on Land Surface Temperature for Different Functional Zones,2020,China
+478,liInfluenceView24,Influence of View Factors on Outdoor Thermal Comfort of Residential Areas in Hot-Humid Regions,2024,China
+479,linExploringConnection24,Exploring the Connection between Morphological Characteristic of Built-up Areas and Surface Heat Islands Based on MSPA,2024,China
+480,linHowDoes24,How Does Urban Heat Island Differ across Urban Functional Zones? Insights from 2D/3D Urban Morphology Using Geospatial Big Data,2024,China
+481,linMeasuringRelationship23,Measuring the Relationship between Morphological Spatial Pattern of Green Space and Urban Heat Island Using Machine Learning Methods,2023,China
+482,liOutdoorThermal24,Outdoor Thermal Comfort and Activities in Urban Parks: An Experiment Study in Humid Subtropical Climates,2024,Multi-Country
+483,liPredictionSummer23,Prediction of Summer Daytime Land Surface Temperature in Urban Environments Based on Machine Learning,2023,United States
+484,liRelatingThreedecade23,Relating Three-Decade Surge in Space Cooling Demand to Urban Warming,2023,Multi-Country
+485,liSensitivityVulnerability24,Sensitivity and Vulnerability to Summer Heat Extremes in Major Cities of the United States,2024,United States
+486,liSpatialtemporalVariations19,Spatial-Temporal Variations of Surface Urban Heat Island Intensity Induced by Different Definitions of Rural Extents in China,2019,China
+487,liStudyImpact24,Study on the Impact of Design Factors of Piloti Forms on the Thermal Environment in Residential Quarters,2024,China
+488,liuAssessingCoordination20,Assessing the Coordination between Economic Growth and Urban Climate Change in China from 2000 to 2015,2020,China
+489,liuAssessingDaytime24,Assessing Daytime Discrepancies and Key Factors in Urban Thermal Environments: A Local Climate Zones-Based Modeling Study in Five Chinese Cities,2024,China
+490,liuEvaluatingImpact22,Evaluating the Impact of Tree Morphologies and Planting Densities on Outdoor Thermal Comfort in Tropical Residential Precincts in Singapore,2022,Singapore
+491,liuInfluenceUrban21,The Influence of Urban Form on Surface Urban Heat Island and Its Planning Implications: Evidence from 1288 Urban Clusters in China,2021,China
+492,loOptimalHeat23,Optimal Heat Stress Metric for Modelling Heat-Related Mortality Varies from Country to Country,2023,Multi-Country
+493,lopesPerceptionsHuman21,Perceptions of Human Thermal Comfort in an Urban Tourism Destination -- A Case Study of Porto (Portugal),2021,Portugal
+494,lopezochoaQuantifyingSpatial24,Quantifying the Spatial Aggregation Bias of Urban Heat Data,2024,United States
+495,luAssessingImpact22,Assessing the Impact of Natural Conditions/Socioeconomic Indicators on the Urban Thermal Environment Based on Geographic Big Data,2022,China
+496,luInvestigationRobustness21,"<div><font face=""Aptos (Detail)"" color=black>Investigation the Robustness of Standard Classification Methods for Defining Urban Heat Islands</font></div>",2021,China
+497,lungAssessing7year24,Assessing 7-Year Heat-Stress Exposures and Adaptation Strategies for Children Using a Real-Time Monitoring Network in Taiwan,2024,"Taiwan, China"
+498,luoEvaluatingHeat21,Evaluating the Heat Island Effect in a Planned Residential Area Using Planning Indicators,2021,China
+499,luoEvaluationUrban24,Evaluation of the Urban Heat Island Effect Based on 3D Modeling and Planning Indicators for Urban Planning Proposals,2024,China
+500,luoIncreasingHumanperceived21,Increasing Human-Perceived Heat Stress Risks Exacerbated by Urbanization in China: A Comparative Study Based on Multiple Metrics,2021,China
+501,luSpatiotemporalVariation20,"Spatiotemporal Variation of Surface Urban Heat Islands in Relation to Land Cover Composition and Configuration: A Multi-Scale Case Study of Xi'an, China",2020,China
+502,luWetbulbTemperature23,"<div><font face=""Aptos (Detail)"" size=2 color=black>Is a wet-bulb temperature of 35 </font><fontface=""Segoe UI Symbol"" size=2 color=black><em>◦</em></font><fontface=""Aptos (Detail)"" size=2 color=black>C the correct threshold for human survivability?</font></div>",2023,World
+503,maEuropeanSummer24,European Summer Wet-Bulb Temperature: Spatiotemporal Variations and Potential Drivers,2024,Europe
+504,maHowDesign21,How to Design Comfortable Open Spaces for the Elderly? Implications of Their Thermal Perceptions in an Urban Park,2021,China
+505,makvandiInteractiveImpact19,The Interactive Impact of Building Diversity on the Thermal Balance and Micro-Climate Change under the Influence of Rapid Urbanization,2019,China
+506,makvandiUrbanHeat23,Urban Heat Mitigation towards Climate Change Adaptation: An Eco-Sustainable Design Strategy to Improve Environmental Performance under Rapid Urbanization,2023,China
+507,mansillaEnvironmentalPerformance21,"Environmental Performance of the Urban Microclimate in Pedestrian Zones of Tarija, Bolivia",2021,Bolivia
+508,marandoUrbanHeat22,Urban Heat Island Mitigation by Green Infrastructure in European Functional Urban Areas,2022,Europe
+509,marcelUrbanHeat21a,Urban Heat Island Index Based on a Simplified Micro Scale Model,2021,France
+510,martilliWRFComfortSimulating24,WRF-Comfort: Simulating Microscale Variability in Outdoor Heat Stress at the City Scale with a Mesoscale Model,2024,Spain
+511,martinez-bermudezCalculationThermal24,"Calculation of Thermal Comfort in Outdoor Spaces: Evaluation of the Cold Season in Ensenada, Baja California",2024,Mexico
+512,martinezPracticalApproach21,A Practical Approach to the Evaluation of Local Urban Overheating-- A Coastal City Case-Study,2021,France
+513,mashhoodiHeatwaveExposure24,Heatwave Exposure Inequality: An Urban-Rural Comparison of Environmental Justice,2024,Netherlands
+514,mcallisterHeatObservations22,The Heat Is on: Observations and Trends of Heat Stress Metrics during Florida Summers,2022,United States
+515,meenaMicroclimateAnalysis24,Microclimate Analysis of Ganga Riverfront in Patna: Spatial Form Perspective,2024,India
+516,mehrotraDiurnalThermal20,"Diurnal Thermal Diversity in Heterogeneous Built Area: Mumbai, India",2020,India
+517,mehtaAnalysisPatterns23,Analysis of Patterns of Urban Sprawl and Surface Urban Heat Island in Solan Town of Himachal Pradesh Using Remote Sensing and Gis,2023,India
+518,mengSpatiotemporalEvolution24,Spatiotemporal Evolution and Influencing Factors of Heat Island Intensity in the Yangtze River Delta Urban Agglomeration Based on GEE,2024,China
+519,middelSolarReflective20,Solar Reflective Pavements-A Policy Panacea to Heat Mitigation?,2020,United States
+520,milosevicAnalysisAir22,Analysis of Air Temperature Dynamics in the ``Local Climate Zones'' of Novi Sad (Serbia) Based on Long-Term Database from an Urban Meteorological Network,2022,Serbia
+521,miOutdoorThermal20,Outdoor Thermal Benchmarks and Their Application to Climate-responsive Designs of Residential Open Spaces in a Cold Region of China,2020,China
+522,mohammadEvaluatingRole21,Evaluating the Role of the Albedo of Material and Vegetation Scenarios along the Urban Street Canyon for Improving Pedestrian Thermal Comfort Outdoors,2021,India
+523,mohammadExploringDifferent23,Exploring Different Indicators for Quantifying Surface Urban Heat and Cool Island Together: A Case Study over Two Metropolitan Cities of India,2023,India
+524,mohammadzadehInfluenceOutdoor23,The Influence of Outdoor Thermal Comfort on Acoustic Comfort of Urban Parks Based on Plant Communities,2023,"Iran, Islamic Rep."
+525,mokarramSpatialtemporalAnalysis24,Spatial-Temporal Analysis of Atmospheric Environment in Urban Areas Using Remote Sensing and Neural Networks,2024,"Iran, Islamic Rep."
+526,mushoreRemoteSensingbased23,"Remote Sensing-Based Outdoor Thermal Comfort Assessment in Local Climate Zones in the Rural--Urban Continuum of eThekwini Municipality, South Africa",2023,South Africa
+527,mutaniImprovingOutdoor22,Improving Outdoor Thermal Comfort in Built Environment Assessing the Impact of Urban Form and Vegetation,2022,Italy
+528,naboniDigitalWorkflow19,A Digital Workflow to Quantify Regenerative Urban Design in the Context of a Changing Climate,2019,Spain
+529,nazarianOutdoorThermal19,Outdoor Thermal Comfort Autonomy: Performance Metrics for Climate-Conscious Urban Design,2019,Singapore
+530,ncongwaneCharacteristicsLongterm21,Characteristics and Long-Term Trends of Heat Stress for South Africa,2021,South Africa
+531,ohUsingDeeplearning20,Using Deep-Learning to Forecast the Magnitude and Characteristics of Urban Heat Island in Seoul Korea,2020,"Korea, Rep."
+532,omalleyInvestigationHeat22,An Investigation into Heat Storage by Adopting Local Climate Zones and Nocturnal-Diurnal Urban Heat Island Differences in the Tokyo Prefecture,2022,Japan
+533,oosterbroekIntegratedAssessment24,Integrated Assessment of Health Benefits and Burdens of Urban Greenspace Designs,2024,Netherlands
+534,ouyangHowQuantify23,How to Quantify the Cooling Effects of Green Infrastructure Strategies from a Spatio-Temporal Perspective: Experience from a Parametric Study,2023,"Hong Kong SAR, China"
+535,padmanabanSatelliteImage19,Satellite Image Fusion to Detect Changing Surface Permeability and Emerging Urban Heat Islands in a Fast-Growing City,2019,India
+536,panAnalyzingChanges23,"Analyzing Changes in Urban Green Spaces and Their Effect on Land Temperature from the Perspective of Surface Radiation Energy Balance in Rizhao City, the Central Coast of China",2023,China
+537,panCharacterizingUrban19,Characterizing Urban Redevelopment Process by Quantifying Thermal Dynamic and Landscape Analysis,2019,China
+538,papadopoulosFutureProjections24,Future Projections of Heat Waves and Associated Mortality Risk in a Coastal Mediterranean City,2024,Greece
+539,paranunzioAssessingCurrent21,"Assessing Current and Future Heat Risk in Dublin City, Ireland",2021,Ireland
+540,parvarLCZFramework24,LCZ Framework and Landscape Metrics: Exploration of Urban and Peri-Urban Thermal Environment Emphasizing 2/3D Characteristics,2024,"Iran, Islamic Rep."
+541,parvezExploringInfluence19,Exploring the Influence of Land Use Type and Population Density on Urban Heat Island Intensity,2019,Saudi Arabia
+370,bindajamEvaluatingImpact24,<div>Evaluating the impact of urbanization on the urban heat islands through integrated radius and non-linear regression approach</div>,2024,Saudi Arabia
+371,braunHeatEmergency24,"<div>A heat emergency: Urban heat exposure and access to refuge in richmond, VA</div>",2024,United States
+372,brouilletInvestigatingRole19,<div>Investigating the role of the relative humidity in the co-occurrence of temperature and heat stress extremes in CMIP5 projections</div>,2019,World
+373,budhirajaSeasonalitySurface19,<div>Seasonality of surface urban heat island in delhi city region measured by local climate zones and conventional indicators</div>,2019,India
+374,buzanImplementationEvaluation24,<div>Implementation and evaluation of wet bulb globe temperature within non-urban environments in the community land model version 5</div>,2024,World
+375,caglakMonitoringFuture23,<div>Monitoring the past and future trends of urban thermal comfort conditions through a new methodology</div>,2023,Türkiye
+376,caiInvestigationPrediction24,<div>Investigation and prediction of outdoor thermal comfort under different protection and activity intensity conditions in summer in wuhan</div>,2024,China
+377,chaferMobileMeasurements22,<div>Mobile measurements of microclimatic variables through the central area of Singapore: An analysis from the pedestrian perspective</div>,2022,Singapore
+378,chakrabortyLowerUrban22,<div>Lower urban humidity moderates outdoor heat stress</div>,2022,Europe
+379,chakrabortyResidentialSegregation23,<div>Residential segregation and outdoor urban moist heat stress disparities in the United States</div>,2023,United States
+380,chakrabortySpatiallyExplicit20,"<div>A spatially explicit surface urban heat island database for the United States: Characterization, uncertainties, and possible applications</div>",2020,United States
+381,chenAssessmentUrban24,Assessment of Urban Thermal Environments Using a Combination of the Local Climate Zone and Landscape Ecological Metrics in Taipei City,2024,"Taiwan, China"
+382,chenChangesGlobal20,Changes in Global and Regional Characteristics of Heat Stress Waves in the 21st Century,2020,World
+383,chenComprehensiveEffect22,Comprehensive Effect of the Three-Dimensional Spatial Distribution Pattern of Buildings on the Urban Thermal Environment,2022,China
+384,chenDifferencesUrban23,"Differences in Urban Heat Island and Its Driving Factors between Central and New Urban Areas of Wuhan, China",2023,China
+385,chenEffectGreen24,Effect of Green Blue Spaces on the Urban Thermal Environment: A Field Study in Hong Kong,2024,"Hong Kong SAR, China"
+386,chenEvaluatingSeasonal23,Evaluating the Seasonal Effects of Building Form and Street View Indicators on Street-Level Land Surface Temperature Using Random Forest Regression,2023,China
+387,chenModellingInterpixel22,Modelling Inter-Pixel Spatial Variation of Surface Urban Heat Island Intensity,2022,China
+388,chenRelationshipUrban23,Relationship between Urban Spatial Form and Seasonal Land Surface Temperature under Different Grid Scales,2023,China
+389,chenStudySpatial22,Study on the Spatial Heterogeneity of Urban Heat Islands and Influencing Factors,2022,China
+390,chiesaLowcostMonitoring22,A Low-Cost Monitoring Platform and Visual Interface to Analyse Thermal Comfort in Smart Building Applications Using a Citizen-Scientist Strategy,2022,Italy
+391,choruengwiwatEcoefficiencyModel19,"The Eco-Efficiency Model for Outdoor Environmental Design of the Mixed-Use Real Estate Development in Bangkok, Thailand",2019,Thailand
+392,chunmingNewMethod24,A New Method for Evaluate the Cold Island Effect in Cities,2024,China
+393,cotlierExtremeHeat22,The Extreme Heat Wave over Western North America in 2021: An Assessment by Means of Land Surface Temperature,2022,Canada
+394,cvijanovicImportanceHumidity23,Importance of Humidity for Characterization and Communication of Dangerous Heatwave Conditions,2023,World
+395,dangAssessmentUrban22,Assessment of Urban Climate Environment and Configuration of Ventilation Corridor: A Refined Study in Xi'an,2022,China
+396,davtalabEffectKharkhona21,The Effect of Kharkhona on Outdoor Thermal Comfort in Hot and Dry Climate: A Case Study of Sistan Region in Iran,2021,"Iran, Islamic Rep."
+397,dengExaminationThermal23,<div>An Examination of the Thermal Comfort Impacts of icus Altssima on the Climate in Lower Subtropical China during the Winter Season</div>,2023,China
+398,dengResearchOutdoor22,Research on Outdoor Thermal Comfort and Activities in Residential Areas in Subtropical China,2022,China
+399,dengUnderstandingImpact22,Understanding the Impact of Urban Expansion and Lake Shrinkage on Summer Climate and Human Thermal Comfort in a Land-Water Mosaic Area,2022,China
+400,deridderAspirateNot23,To Aspirate or Not to Aspirate -- Impact of Active versus Passive Ventilation on Urban Heat (Island) Indicators,2023,Belgium
+401,diaz-borregoUrbanLayout21,Urban Layout for Building Solar Optimization and Outdoor Comfort Balance: Neighborhood Strategy in Mediterranean Climate,2021,Spain
+402,diemAssessingRelationship24,Assessing the Relationship between Land Surface Temperature and Air Temperature for Thermal Comfort Analysis in Can Tho City: Implications for Sustainable Spatial Planning,2024,Vietnam
+403,dimitriadouDefiningHeatwaves21,"Defining Heatwaves with Respect to Human Biometeorology. The Case of Attica Region, Greece",2021,Greece
+404,dongMeasuringUrban24,Measuring Urban Thermal Environment from Accessibility-Based Perspective: A Case Study in a Populous City,2024,China
+405,dongPlanningGreen23,Planning for Green Infrastructure Based on Integration of Multi-Driving Factors: A Case Study in Pilot Site of Sponge City,2023,China
+406,dreskovicNDVINDBI24,NDVI and NDBI Indexes as Indicators of the Creation of Urban Heat Islands in the Sarajevo Basin,2024,Bosnia and Herzegovina
+407,elagiryNature4CitiesNaturebased20,Nature4Cities: Nature-based Solutions and Climate Resilient Urban Planning and Modelling with GREENPASS{\textregistered} - a Case Study in Segrate/Milano/IT,2020,Italy
+408,fabbriSunshadingSails23,Sun-Shading Sails in Courtyards: An Italian Case Study with RayMan,2023,Italy
+409,faroqiAnalyzingEffects24,Analyzing Effects of Environmental Indices on Satellite Remote Sensing Land Surface Temperature Using Spatial Regression Models,2024,"Iran, Islamic Rep."
+410,fayshalUnveilingImpact24,"Unveiling the Impact of Rapid Urbanization on Human Comfort: A Remote Sensing-Based Study in Rajshahi Division, Bangladesh",2024,Bangladesh
+411,feiNewMethod23,A New Method for Evaluating the Synergistic Effect of Urban Water Body and Vegetation in the Summer Outdoor Thermal Environment,2023,China
+412,fernandez-garzaUseSatellite22,Use of Satellite Images to Estimate Urban Heat Maps,2022,Spain
+413,florenzioRoleUrban23,The Role of Urban Planning in Climate Adaptation: An Empirical Analysis of UHI in European Cities,2023,Europe
+414,freychetRobustIncrease22,Robust Increase in Population Exposure to Heat Stress with Increasing Global Warming,2022,World
+415,galodhaLandSurface21,Land Surface Temperature as an Indicator of Urban Heat Island Effect: A Google Earth Engine Based Web-App,2021,World
+416,gamalel-deenImprovingPedestrian24,Improving Pedestrian Thermal Comfort Using Optimized Urban Trees Pattern in Aswan City,2024,"Egypt, Arab Rep."
+417,gaoEffectsBlock22,Effects of Block Morphology on the Surface Thermal Environment and the Corresponding Planning Strategy Using the Geographically Weighted Regression Model,2022,China
+418,gaoEnhancedSensitivity19,Enhanced Sensitivity of the Urban Heat Island Effect to Summer Temperatures Induced by Urban Expansion,2019,China
+419,garcia-blancoAdoptingResilience23,Adopting Resilience Thinking through Nature-Based Solutions within Urban Planning: A Case Study in the City of Val{\`e}ncia,2023,Spain
+420,gawucStatisticalModeling20,"Statistical Modeling of Urban Heat Island Intensity in Warsaw, Poland Using Simultaneous Air and Surface Temperature Observations",2020,Poland
+421,getuQuantifyingSpatiotemporal24,"Quantifying Spatio-temporal Dynamics of Land Surface Temperature for the Rapidly Growing City of Bahir Dar, Northwest Ethiopia Using Multidated Landsat Data",2024,Ethiopia
+422,guerriFunctionalSeasonal22,A Functional Seasonal Thermal Hot-Spot Classification: Focus on Industrial Sites,2022,Italy
+423,gullerImpactsUrban24,"The Impacts of Urban Morphology on Urban Heat Islands in Housing Areas: The Case of Erzurum, Turkey",2024,Türkiye
+424,guoFinerscaleUrban24,"Finer-Scale Urban Health Risk Assessment Based on the Interaction Perspective of Thermal Radiation, Human, Activity, and Space",2024,China
+425,guoMechanismStreet24,The Mechanism of Street Spatial Form on Thermal Comfort from Urban Morphology and Human-Centered Perspectives: A Study Based on Multi-Source Data,2024,China
+426,guoRegionalVariation24,Regional Variation in the Role of Humidity on City-Level Heat-Related Mortality,2024,World
+542,peceljAnalysisUniversal20,Analysis of the Universal Thermal Climate Index during Heat Waves in Serbia,2020,Serbia
+543,pengWaveletCoherence20,A Wavelet Coherence Approach to Prioritizing Influencing Factors of Land Surface Temperature and Associated Research Scales,2020,China
+544,perkhurovaRealtimeMicroscale19,Real-Time Microscale Modeling of Thermal Comfort Conditions in Moscow Region,2019,Russian Federation
+545,pigliautileHumansCity20,Humans in the City: Representing Outdoor Thermal Comfort in Urban Canopy Models,2020,United States
+546,pilipenkoEvaluationUrban21,Evaluation of Urban Microclimate Parameters as Indicators of Pedestrian Ways Environmental Comfort,2021,Russian Federation
+547,priyankaraSpatialProcess19,Spatial Process of Surface Urban Heat Island in Rapidly Growing Seoul Metropolitan Area for Sustainable Urban Planning Using Landsat Data (1996-2017),2019,"Korea, Rep."
+548,przesmyckaThermalComfort22,The Thermal Comfort Problem in Public Space during the Climate Change Era Based on the Case Study of Selected Area in Lublin City in Poland,2022,Poland
+549,pucheInsightsEffect23,Insights into the Effect of Urban Morphology and Land Cover on Land Surface and Air Temperatures in the Metropolitan City of Milan (Italy) Using Satellite Imagery and in Situ Measurements,2023,Italy
+550,purioAssessmentIntraurban22,Assessment of Intra-Urban Heat Island in a Densely Populated City Using Remote Sensing: A Case Study for Manila City,2022,Philippines
+551,qiaoAnalysisCorrelation24,Analysis of the Correlation between Spatial Morphological Elements and Microclimate in the Higher Education Teaching Center Area,2024,China
+552,radMeasuringEffects21,"Measuring Effects of Building Orientation and Vegetation on Thermal Comfort by Envi-Met (Case Study: Maslak Area, Istanbul)",2021,Türkiye
+553,radQuantitativeAssessment21,The Quantitative Assessment of the Effects of the Morphology of Urban Complexes on the Thermal Comfort Using the PMV/PPD Model (a Case Study of Gheytariyeh Neighborhood in Tehran),2021,"Iran, Islamic Rep."
+554,ramsayChronicHeat21,Chronic Heat Stress in Tropical Urban Informal Settlements,2021,Indonesia
+555,raymondEveningHumidheat24,Evening Humid-Heat Maxima near the Southern Persian/Arabian Gulf,2024,United Arab Emirates
+556,renIntensityUrban21,Beyond Intensity of Urban Heat Island Effect: A Continental Scale Analysis on Land Surface Temperature in Major Chinese Cities,2021,China
+557,reyesExploringEffects24,Exploring the Effects of Landscape Interventions on Outdoor Thermal Comfort Using Digital Simulation,2024,Philippines
+558,roshanEnvironmentalImpacts24,"Environmental Impacts of Shifts in Surface Urban Heat Island, Emissions, and Nighttime Light during the Russia--Ukraine War in Ukrainian Cities",2024,Ukraine
+559,rusdayantiThermalComfort21,Thermal Comfort Assessment over the Past Two Decades in Different Landscape Areas within Palembang City,2021,Indonesia
+560,sadeghiDevelopmentHeat21,Development of a Heat Stress Exposure Metric -- Impact of Intensity and Duration of Exposure to Heat on Physiological Thermal Regulation,2021,Australia
+561,sariUrbanHeat24,"Urban Heat Island (UHI) Spatiotemporal Pattern in Comparison with NDBI before-after COVID-19 Pandemic in Sleman Regency, Indonesia",2024,Indonesia
+562,scharfGreenRoofs19,Green Roofs and Greenpass,2019,Germany
+563,scharfNBSImpact21,NBS Impact Evaluation with GREENPASS Methodology Shown by the Case Study 'fischbeker Hofe' in Hamburg/Germany,2021,Germany
+564,schwingshacklHeatStress21,Heat Stress Indicators in CMIP6: Estimating Future Trends and Exceedances of Impact-Relevant Thresholds,2021,World
+565,schwingshacklHighresolutionProjections24,High-Resolution Projections of Ambient Heat for Major European Cities Using Different Heat Metrics,2024,Europe
+566,seebauerFeelingHot24,Feeling Hot Is Being Hot? Comparing the Mapping and the Surveying Paradigm for Urban Heat Vulnerability in Vienna,2024,Austria
+567,shakerApplyingSustainability24,Applying Sustainability and Liveability Principles in Planning a Residential Neighbourhood in an Arid Climate in Egypt,2024,"Egypt, Arab Rep."
+568,shakerInvestigatingUrban19,Investigating Urban Heat Island through Spatial Analysis of New York City Streetscapes,2019,United States
+569,shaoExploringRelationship20,"Exploring the Relationship between Urbanization and Ecological Environment Using Remote Sensing Images and Statistical Data: A Case Study in the Yangtze River Delta, China",2020,China
+570,shenStereoscopicUrban24,Stereoscopic Urban Morphology Metrics Enhance the Nonlinear Scale Heterogeneity Modeling of UHI with Explainable AI,2024,China
+571,shenUsingGeoAI23,Using GeoAI to Reveal the Contribution of Urban Park Green Space Features to Mitigate the Heat Island Effect,2023,China
+572,shiUrbanMorphological22,Urban Morphological Indicators of Urban Heat and Moisture Islands under Various Sky Conditions in a Humid Subtropical Region,2022,China
+573,shreevastavaParadoxicalImpact19,Paradoxical Impact of Sprawling Intra-Urban Heat Islets: Reducing Mean Surface Temperatures While Enhancing Local Extremes,2019,World
+574,sidiquiUrbanHeat22,Urban Heat Island Vulnerability Mapping Using Advanced GIS Data and Tools,2022,Australia
+575,simwandaSpatialAnalysis19,Spatial Analysis of Surface Urban Heat Islands in Four Rapidly Growing African Cities,2019,Africa
+576,singhNormalizedUrban23,Normalized Urban Heat Island (UHI) Indicators: Classifying the Temporal Variation of UHI for Building Energy Simulation (BES) Applications,2023,United States
+577,soltanifardAnalysisSpatially22,"Analysis of Spatially Varying Relationships between Urban Environment Factors and Land Surface Temperature in Mashhad City, Iran",2022,"Iran, Islamic Rep."
+578,songInfluenceResidential23,The Influence of Residential Block Form on Summer Thermal Comfort of Street Canyons in the Warm Temperate Zone of China,2023,China
+579,speakForeheadTemperatures21,Forehead Temperatures as an Indicator of Outdoor Thermal Comfort and the Influence of Tree Shade,2021,Italy
+580,stanojevicSUMMEROUTDOOR23,SUMMER OUTDOOR THERMAL COMFORT in MULTI-FAMILY HOUSING Combining Microclimate Indicators with Human Thermal Sensation,2023,Serbia
+581,stavrakakisComputationalFluid23,A Computational Fluid Dynamics Modelling Approach for the Numerical Verification of the Bioclimatic Design of a Public Urban Area in Greece,2023,Greece
+582,suImprovementStrategies22,"Improvement Strategies for Thermal Comfort of a City Block Based on PET Simulation--- A Case Study of Dalian, a Cold-Region City in China",2022,China
+583,suPolycentricStructure23,Polycentric Structure and Urban Thermal Environment: A Large-Scale Study from Multi-Perspectives,2023,China
+584,suSummerOutdoor24,Summer Outdoor Thermal Comfort Evaluation of Urban Open Spaces in Arid-Hot Climates,2024,China
+585,tahaMicrometeorologicalEffects24,"Micrometeorological Effects and Thermal-Environmental Benefits of Cool Pavements: Findings from a Detailed Observational Field Study in Pacoima, California",2024,United States
+586,takebayashiSimplifiedEvaluation24,A Simplified Evaluation Framework for Adaptation Measures to Urban Heat Islands,2024,Japan
+587,tangStudyGreen22,Study on the Green Space Patterns and Microclimate Simulation in Typical Urban Blocks in Central China,2022,China
+588,tanooriPredictingUrban24,Predicting Urban Land Use and Mitigating Land Surface Temperature: Exploring the Role of Urban Configuration with Convolutional Neural Networks,2024,"Iran, Islamic Rep."
+589,tewariImpactCOVID23,Impact of COVID Lockdowns on Spatio-Temporal Variability in Land Surface Temperature and Vegetation Index,2023,India
+590,tianFactorsInfluencing22,Factors Influencing Resident and Tourist Outdoor Thermal Comfort: A Comparative Study in China's Cold Region,2022,China
+591,vassiliadesClimateSensitive23,A Climate Sensitive Design Approach to BIPV: Investigating the Nexus between Solar Energy and Thermal Comfort in Cities in Sweden and Cyprus,2023,Multi-Country
+592,villalobos-herreraCompoundeventorientedClimate21,Towards a Compound-Event-Oriented Climate Model Evaluation: A Decomposition of the Underlying Biases in Multivariate Fire and Heat Stress Hazards,2021,World
+593,vinhInterrelationshipsLst20,"The Inter-Relationships between Lst, Ndvi, Ndbi in Remote Sensing to Achieve Drought Resilience in Ninh Thuan, Vietnam",2020,Vietnam
+594,vuckovicPotentialNeurofuzzy19,Potential of Neuro-Fuzzy Methodology for Forecasting of Outdoor Thermal Comfort Index at Urban Open Spaces,2019,Serbia
+595,vuSpatialDistribution24,Spatial Distribution and Trends of Heat Stress in Vietnam,2024,Vietnam
+596,waiImprovementOutdoor21,Improvement of the Outdoor Thermal Comfort by Water Spraying in a High-Density Urban Environment under the Influence of a Future (2050) Climate,2021,"Hong Kong SAR, China"
+597,wangAssessmentWalkability22,Assessment of Walkability and Walkable Routes of a 15-Min City for Heat Adaptation: Development of a Dynamic Attenuation Model of Heat Stress,2022,China
+598,wangEvidenceRelieved23,Evidence of Relieved Urban Heat Island Intensity during Rapid Urbanization through Local Climate Zones,2023,China
+599,wangHeterogeneousUrban22,"Heterogeneous Urban Thermal Contribution of Functional Construction Land Zones: A Case Study in Shenzhen, China",2022,China
+600,wangNumericalStudy24,Numerical Study on the Thermal Environment of the Vertical Greening System Based on Infrared Thermal Imaging,2024,China
+601,wangPredictionUrban22,Prediction of Urban Thermal Environment Based on Multi-Dimensional Nature and Urban Form Factors,2022,China
+602,wangRegulationUrban23,Regulation of Urban Morphology on Thermal Environment across Global Cities,2023,World
+603,wangResearchThermal19,Research on Thermal Comfort Equation of Comfort Temperature Range Based on Chinese Thermal Sensation Characteristics,2019,China
+604,wangSatellitebasedMapping20,Satellite-Based Mapping of the Universal Thermal Climate Index over the Yangtze River Delta Urban Agglomeration,2020,China
+605,wangSpatiotemporalAnalysis20,"Spatiotemporal Analysis of Land Use/Cover Patterns and Their Relationship with Land Surface Temperature in Nanjing, China",2020,China
+606,wangUrbanHeat23,Urban Heat Islands Characterized by Six Thermal Indicators,2023,China
+607,weiVariationsOutdoor22,Variations in Outdoor Thermal Comfort in an Urban Park in the Hot-Summer and Cold-Winter Region of China,2022,China
+608,wollmannOutdoorHuman23,"Outdoor Human Thermal Comfort along Bike Paths in Balneario Camboriu/SC, Brazil: A Case Study in the Summer of 2022",2023,Brazil
+609,wuAnalysisSpatiotemporal22,Analysis of Spatio-temporal Patterns and Related Factors of Thermal Comfort in Subtropical Coastal Cities Based on Local Climate Zones,2022,China
+610,wuImpactUrban21,"Impact of Urban Agglomeration and Physical and Socioeconomic Factors on Surface Urban Heat Islands in the Pearl River Delta Region, China",2021,China
+611,wuMethodCalculating22,Method of Calculating Land Surface Temperatures Based on the Low-Altitude UAV Thermal Infrared Remote Sensing Data and the near-Ground Meteorological Data,2022,China
+612,wuSpatiotemporalHeterogeneity24,"Spatio-Temporal Heterogeneity of the Urban Heat Effect and Its Socio-Ecological Drivers in Yangzhou City, China",2024,China
+613,xiaoClimateadaptiveLandscape22,"Climate-Adaptive Landscape Design: Microclimate and Thermal Comfort Regulation of Station Square in the Hokuriku Region, Japan",2022,Japan
+614,xingResearchComfort24,Research on the Comfort of Outdoor Thermal Environment in Old Communities in Mild Climate Areas,2024,China
+615,xiongLongTimeseries22,Long Time-Series Urban Heat Island Monitoring and Driving Factors Analysis Using Remote Sensing and Geodetector,2022,China
+616,xuFieldMeasurement19,Field Measurement Study on the Impacts of Urban Spatial Indicators on Urban Climate in a Chinese Basin and Static-Wind City,2019,China
+617,xuOutdoorThermal19,Outdoor Thermal Comfort of Shaded Spaces in an Urban Park in the Cold Region of China,2019,China
+618,xuOutdoorThermal23,Outdoor Thermal Perception and Heatwave Adaptation Effects in Summer -- A Case Study of a Humid Subtropical City in China,2023,China
+619,xuTemporalSpatial20,"Temporal and Spatial Variations of Urban Climate and Derivation of an Urban Climate Map for Xi'an, China",2020,China
+620,yanCoolingEffect21,"The Cooling Effect of Urban Green Spaces in Metacities: A Case Study of Beijing, China's Capital",2021,China
+621,yangComparisonLand20,Comparison of Land Surface and Air Temperatures for Quantifying Summer and Winter Urban Heat Island in a Snow Climate City,2020,China
+622,yangOptimizationMethod23,An Optimization Method for Surface Urban Heat Island Footprint Extraction Based on Anisotropy Assumption,2023,China
+623,yangQuantitativeMethods20,Quantitative Methods for Identifying Meteorological Conditions Conducive to the Development of Urban Heat Islands,2020,China
+624,yangUsingLandsat20,"Using Landsat 8 Data to Compare Percent Impervious Surface Area and Normalized Difference Vegetation Index as Indicators of Urban Heat Island Effects in Connecticut, USA",2020,United States
+625,yaoEstimationSurface24,Estimation of the Surface Urban Heat Island Intensity across 1031 Global Cities Using the Regression-Modification-Estimation (RME) Method,2024,World
+626,yaoNewApproach20,A New Approach for Surface Urban Heat Island Monitoring Based on Machine Learning Algorithm and Spatiotemporal Fusion Model,2020,China
+627,yaoUnderstandingSpatiotemporal21,"Understanding the Spatiotemporal Pattern of the Urban Heat Island Footprint in the Context of Urbanization, a Case Study in Beijing, China",2021,China
+628,yeVariationsEffects21,Variations in the Effects of Landscape Patterns on the Urban Thermal Environment during Rapid Urbanization (1990--2020) in Megacities,2021,China
+629,yilmazAnalysisSummer24,Analysis of the Summer Thermal Comfort Indices in {\.I}stanbul,2024,Türkiye
+630,yiStudyCoupling23,Study on the Coupling Relationship between Thermal Comfort and Urban Center Spatial Morphology in Summer,2023,China
+631,yooDownscalingMODIS22,Downscaling MODIS Nighttime Land Surface Temperatures in Urban Areas Using ASTER Thermal Data through Local Linear Forest,2022,Spain
+632,yuanOutdoorThermal23,Outdoor Thermal Comfort in Urban and Rural Open Spaces: A Comparative Study in China's Cold Region,2023,China
+633,yuInfluencesBuildings21,Influences of Buildings on Urban Heat Island Based on 3D Landscape Metrics: An Investigation of China's 30 Megacities at Micro Grid-Cell Scale and Macro City Scale,2021,China
+634,yuStudyThermal20,A Study of the Thermal Environment and Air Quality in Hot--Humid Regions during Running Events in Southern Taiwan,2020,"Taiwan, China"
+635,zengExploringSpatial23,Exploring the Spatial Interplay between Built-up Environments and Surface Urban Heat Island Phenomena in the Main Urban Area of Shanghai,2023,China
+636,zengSpatialtemporalAnalysis23,"Spatial-Temporal Analysis of Urban Green Space and the Impact on Land Surface Temperature of Beijing, China",2023,China
+637,zhangAssessingContributions23,Assessing the Contributions of Urban Green Space Indices and Spatial Structure in Mitigating Urban Thermal Environment,2023,China
+638,zhangAssessingEscalating24,Assessing the Escalating Human-Perceived Heatwaves in a Warming World: The Case of China,2024,China
+639,zhangAssociationsUrban20,Associations between Urban Thermal Environment and Physical Indicators Based on Meteorological Data in Foshan City,2020,China
+640,zhangDirectionalZonal19,Directional and Zonal Analysis of Urban Thermal Environmental Change in Fuzhou as an Indicator of Urban Landscape Transformation,2019,China
+641,zhangEffectsUrban22,Effects of Urban Morphology on Thermal Comfort at the Micro-Scale,2022,China
+642,zhangInequalityGlobal23,Inequality of Global Thermal Comfort Conditions Changes in a Warmer World,2023,World
+643,zhangLandscapeConfiguration23,Landscape Configuration Effects on Outdoor Thermal Comfort across Campus---a Case Study,2023,China
+644,zhangOutdoorThermal20,Outdoor Thermal Comfort of Urban Park-a Case Study,2020,China
+645,zhangOutdoorThermal21,Outdoor Thermal Environments and Related Planning Factors for Subtropical Urban Parks,2021,Australia
+646,zhangSpatialDifferences22,"Spatial Differences in Thermal Comfort in Summer in Coastal Areas: A Study on Dalian, China",2022,China
+647,zhangSpatialEffects22,Spatial Effects of Landscape Patterns of Urban Patches with Different Vegetation Fractions on Urban Thermal Environment,2022,China
+648,zhangSpatialPattern22,"Spatial Pattern Impact of Impervious Surface Density on Urban Heat Island Effect: A Case Study in Xuzhou, China",2022,China
+649,zhangSubstantialIncrease23,Substantial Increase in Human-Perceived Heatwaves in Eastern China in a Warmer Future,2023,China
+650,zhanImpactBuilding24,"Impact of Building Morphology on Outdoor Thermal Comfort in Summer Afternoons: A Case Study in Nanjing, China",2024,China
+651,zhaoSpatiotemporalCharacteristics20,Spatiotemporal Characteristics of Urban Surface Temperature and Its Relationship with Landscape Metrics and Vegetation Cover in Rapid Urbanization Region,2020,China
+652,zhengComparisonAdaption24,Comparison of the Adaption of Outdoor Thermal Comfort of Pedestrians with Face Masks in Semi-Open Spaces,2024,China
+653,zhenUrbanOutdoor21,Urban Outdoor Thermal Comfort in Western China,2021,China
+654,zhongHowRapidly24,How to Rapidly Map Outdoor Mean Radiation Temperatures with High-Spatial-Resolution from UAV-derived Multimodal Images: A Case Study in Guangzhou,2024,China
+655,zhouExploringSurface22,Exploring Surface Urban Heat Island (SUHI) Intensity and Its Implications Based on Urban 3D Neighborhood Metrics: An Investigation of 57 Chinese Cities,2022,China
+656,zhouRelationshipUrban22,Relationship between Urban Landscape Structure and Land Surface Temperature: Spatial Hierarchy and Interaction Effects,2022,China
+657,zhouUrbanTree21,Urban Tree Canopy Has Greater Cooling Effects in Socially Vulnerable Communities in the US,2021,United States
+658,zhouVerticalCanopy25,Vertical Canopy Structure Dominates Cooling and Thermal Comfort of Urban Pocket Parks during Hot Summer Days,2025,China
+659,zhuExploringImpact24,Exploring the Impact of Urban Morphology on Building Energy Consumption and Outdoor Comfort: A Comparative Study in Hot-Humid Climates,2024,China
+660,zhuProjectionApparent21,Projection of Apparent Temperature Using Statistical Downscaling Approach in the Pearl River Delta,2021,China
+661,afxentiouCOVID19Housing22,The {{COVID-19}} Housing Boom: {{Is}} a 2007--2009-Type Crisis on the Horizon?,2022,United States
+662,ahmedIncomeExpectations20,"Income Expectations, Credit to Households, and Property Prices: {{Evidence}} from {{Indonesia}} and {{Brazil}}",2020,Multi-Country
+663,alberichEnvironmentalJustice21,Environmental Justice and Urban Parks. {{A}} Case Study Applied to Tarragona (Spain),2021,Spain
+664,aljoufieExploringHousing23,Exploring Housing and Transportation Affordability in Jeddah,2023,Saudi Arabia
+665,alshubiriHousingAffordability24,Housing Affordability Indicators and the Sustainability Paradigm in {{OECD}} Countries,2024,Multi-Country
+666,alvanbozdereliRelationshipResidential24,Relationship between Residential Property Prices and Macroeconom{\i}c Variables in {{Turkey}},2024,Türkiye
+667,anSelforganizingSpecial24,Self-Organizing Special Districts: A Tool for Community Change and Development,2024,China
+668,anAssessmentStreetlevel23,Assessment of Street-Level Greenness and Its Association with Housing Prices in a Metropolitan Area,2023,"Korea, Rep."
+669,anIntermetropolitanLand21,"Inter-Metropolitan Land Price Characteristics and Pattern in the {{Beijing-Tianjin-Hebei}} Urban Agglomeration, {{China}}",2021,China
+670,antunesHousingMarket20,Housing Market Access in the Lisbon Metropolitan Area between the Financial and the Pandemic Crises,2020,Portugal
+671,apergisResidentialHousing22,"Residential Housing Prices, {{COVID-19}} and the Role of the Vaccination Program: {{Evidence}} from {{US}} State Panel Data",2022,United States
+672,aregawiResidentialLand24,Residential Land Supply for Affordable Housing in {{Ethiopia}}: The Political-Economic Challenges---Evidence from Three Cities in {{Tigray}} Province,2024,Ethiopia
+673,awonaikeMachineLearning22,A Machine Learning Framework for House Price Estimation,2022,United Kingdom
+674,barrecaArchitecturalQuality22,Architectural Quality and the Housing Market: {{Values}} of the Late Twentieth Century Built Heritage,2022,Italy
+675,bentleyHousingAffordability22,Housing Affordability and Mental Health: An Analysis of Generational Change,2022,Australia
+676,boadiImpactResettlement23,The Impact of Resettlement on Quality of Life in Ghana: {{The}} Mediating Role of Residential Satisfaction,2023,Ghana
+677,bourasForecastingState23,Forecasting State- and {{MSA-level}} Housing Returns of the {{US}}: {{The}} Role of Mortgage Default Risks,2023,United States
+678,bricongneWebscrapingHousing23,Web-Scraping Housing Prices in Real-Time: {{The Covid-19}} Crisis in the {{UK}},2023,United Kingdom
+679,cabrasPublicHouses21,Public Houses and House Prices in {{Great Britain}}: A Panel Analysis,2021,Multi-Country
+680,caiDevelopingMulticriteria23,Developing a Multi-Criteria Prioritization Tool to Catalyze {{TOD}} on Publicly Owned Land Areas,2023,United States
+681,caiHeterogeneityDifferentiation24,"Heterogeneity, Differentiation Mechanisms and Social Effects of Urban Residential Space in China's Large Cities: A Case Study of Wuhan",2024,China
+682,carroTamingHousing23,Taming the Housing Roller Coaster: {{The}} Impact of Macroprudential Policy on the House Price Cycle,2023,Spain
+683,chatterjeeForecastingEconomic23,"Forecasting {{Economic Growth}}: {{Evidence}} from Housing, Banking, and Credit Conditions",2023,United States
+684,chenHospitalRail22,Do Hospital and Rail Accessibility Have a Consistent Influence on Housing Prices? {{Empirical}} Evidence from {{China}},2022,China
+685,corderaImpactUndesirable19,The Impact of Undesirable Externalities on Residential Property Values: Spatial Regressive Models and an Empirical Study,2019,Italy
+686,cortesSpatialAccessibility21,"Spatial Accessibility to Local Public Services in an Unequal Place: {{An}} Analysis from Patterns of Residential Segregation in the Metropolitan Area of Santiago, Chile",2021,Chile
+687,coupeHowGlobal20,How Global Is the Affordable Housing Crisis?,2020,Multi-Country
+688,dasilvaCityLife19,City Life Satisfaction: {{A}} Measurement for Smart and Sustainable Cities from the Citizens' Perspective,2019,Brazil
+689,dasAccessBasic21,Access to Basic Amenities and Services to Urban Households in {{West Bengal}}: {{Does}} Its Location and Size of Settlements Matter?,2021,India
+690,dimunaEvaluationResidents19,"Evaluation of Residents' Satisfaction with Building Features in Some Public Housing Estates in Benin City, Nigeria",2019,Nigeria
+691,dingUrbanHousing24,Urban Housing Prices and Consumption Structure Upgrading: {{Different}} Relationships in Urban and Rural China,2024,China
+692,dischComparingHousing24,Comparing Housing Market Dynamics in the Irish and {{UK}} Residential Markets,2024,Multi-Country
+693,doszynEconometricModelling24,Econometric Modelling of Average Housing Prices in Local Markets and the Price Anchoring Effect,2024,Poland
+694,duanHousingAffordability24,Housing Affordability in the Capital Cities of Three {{Northwestern China}} Provinces,2024,China
+695,elmendorfMakingIt20,Making It Work: {{Legal}} Foundations for Administrative Reform of California's Housing Framework,2020,United States
+696,emelyanovaAssessingRegional20,Assessing the Regional Housing Market Development in the Northern and Arctic Regions of the Russian Federation,2020,Russian Federation
+697,fangForecastForeclosure22,Forecast of Foreclosure Property Market Trends during the Epidemic Based on {{GA-BP}} Neural Network,2022,China
+698,farrellMeasuringFinancial20,Measuring the Financial Cycle in South Africa,2020,South Africa
+699,fengIdentificationCauses24,Identification and Causes of Neighborhood Commercial Areas: {{Focusing}} on the Development of Daily Life Circles in Urban Built Environments,2024,China
+700,fernandezComparingFinancial22,Comparing the Financial Impact of Housing Retrofit Policies on {{Dutch}} Homeowners,2022,Netherlands
+701,fiorelliRoleHouse24,The Role of House Prices and Transactions in Monetary Policy Transmission: {{The}} Case of Italy,2024,Italy
+702,firooziImpactPopulation20,The Impact of Population Aging on Housing Prices: {{A}} Comparative Study of Singapore and the u.s.,2020,Multi-Country
+703,frantaApplicationMultipleoutput25,The Application of Multiple-Output Quantile Regression to the {{US}} Financial Cycle,2025,United States
+704,geIntegratedModel19,An Integrated Model for Urban Subregion House Price Forecasting: {{A}} Multi-Source Data Perspective,2019,China
+705,geertsGraphNeural24,Graph Neural Networks for House Price Prediction: Do or Don't?,2024,Multi-Country
+706,geteExpectationsHousing20,Expectations and the Housing Boom and Bust. {{An}} Open Economy View,2020,Multi-Country
+707,guirguisAdvancesForecasting24,Advances in Forecasting Home Prices,2024,United States
+708,guptaHousePrices24,"House Prices in India: {{How}} High, and for How Long?",2024,India
+709,hanSpatialStatistical23,A Spatial and Statistical Approach to Evaluate {{London Opportunity}} Areas Policy and Relevant Factors' Significance,2023,United Kingdom
+710,hassanReviewHousing21,A Review on Housing Affordability in Malaysia: {{Are}} We Doing Fine?,2021,Malaysia
+711,herathCityProximity21,"City Proximity, Travel Modes and House Prices: The Three Cities in {{Sydney}}",2021,Australia
+712,hertrichNovelHousing19,A Novel Housing Price Misalignment Indicator for Germany,2019,Germany
+713,heylenMeasuringHousing23,Measuring Housing Affordability. {{A}} Case Study of {{Flanders}} on the Link between Objective and Subjective Indicators,2023,Belgium
+714,horvatovaTwentyYears20,Twenty Years of Mortgage Banking in Slovakia,2020,Slovak Republic
+715,houTransferredBias25,Transferred Bias Uncovers the Balance between the Development of Physical and Socioeconomic Environments of Cities,2025,United States
+716,huEntranceOpportunity24,Entrance Opportunity vs. Academic Performance: Unpacking the Nonlinear Capitalization Effects of Multidimensional School Qualities on Housing Sales and Rental Prices,2024,China
+717,huangMoreBetter23,"The More, the Better? {{Forecasting}} Gains from High-Frequency Housing Prices in a {{Markov-switching}} Dynamic Factor Model",2023,United States
+718,huangHousingBusiness20,Is Housing the Business Cycle? {{A}} Multiresolution Analysis for {{OECD}} Countries,2020,Multi-Country
+719,huangThresholdUnobserved20,A Threshold Unobserved Components Model of Housing Bubbles: Timings and Effectiveness of Monetary Policies,2020,United States
+720,ianchukMarketingManagement21,"Marketing, Management and Financial Providing of Affordable Housing",2021,Europe
+721,irandoustHousePrices19,House Prices and Unemployment: An Empirical Analysis of Causality,2019,Europe
+722,jagunSustainableHousing20,"Sustainable Housing Delivery in Cities by Private Developer: {{A}} Case of Lagos, Nigeria.",2020,Nigeria
+723,jeonForeignUncertainty19,Foreign Uncertainty and Housing Distribution Market in {{Korea}},2019,"Korea, Rep."
+724,kangEffectsSpatial19,"Effects of Spatial Access to Neighborhood Land-Use Density on Housing Prices: {{Evidence}} from a Multilevel Hedonic Analysis in {{Seoul}}, {{South Korea}}",2019,"Korea, Rep."
+725,karachurinaMigrationHousing22,Migration and Housing Construction in the Regional Capitals of Russia and Their Suburbs,2022,Russian Federation
+726,kashinaImprovementMethodology22,Improvement of Methodology for Assessing Housing Affordability Based on Regional Characteristics,2022,Russian Federation
+727,kongSpatialCoupling22,"Spatial Coupling Coordination Evaluation between Population Growth, Land Use and Housing Supply of Urban Agglomeration in China",2022,China
+728,kosarevaHousingAffordability21,Housing Affordability in Russia,2021,Russian Federation
+729,krupaPropertyTax21,"Property Tax Assessments, Collections, and Revenue Performance in Economic Downturns: {{An}} Examination of Large {{American}} Cities",2021,United States
+730,laurinaviciusImpactHousing21,Impact of Housing Affordability and Other Socioeconomic Variables on Internal Migration in {{Lithuania}},2021,Lithuania
+731,legoixUnequalHousing21,"Unequal Housing Affordability across European Cities. {{The ESPON}} Housing Database, Insights on Affordability in Selected Cities in Europe",2021,Europe
+732,leeDataMining22,"A Data Mining Study on House Price in Central Regions of Taiwan Using Education Categorical Data, Environmental Indicators, and House Features Data",2022,"Taiwan, China"
+733,leungDynamicsHouse23,The Dynamics of the House Price-to-Income Ratio: {{Theory}} and Evidence,2023,Multi-Country
+734,liStudyAverage20,Study on Average Housing Prices in the Inland Capital Cities of China by Night-Time Light Remote Sensing and Official Statistics Data,2020,China
+735,liExploringValue25,Exploring the Value of Green: {{The}} Impact Factors on {{China}}'s Second-Hand Green Housing Prices Based on Geographically Weighted {{Lasso}} Regressions,2025,China
+736,liEffectIncreasing22,Effect of Increasing the Rental Housing Supply on House Prices: {{Evidence}} from {{China}}'s Large and Medium-Sized Cities,2022,China
+737,linSpatialtemporalEffects22,Spatial-Temporal Effects of Urban Housing Prices on Job Location Choice of College Graduates: {{Evidence}} from Urban {{China}},2022,China
+738,liuUrbanStructure24,"Urban Structure, Housing Prices and the Double Role of Amenity: A Study of Nanjing, China",2024,China
+739,liuWhatAre25,What Are the Pivotal Factors Influencing Housing Prices? {{A}} Spatiotemporal Dynamic Analysis across Market Cycles from Upturn to Downturn in Wuhan,2025,China
+740,loCausalRelationships23,Causal Relationships between the Price-to-Rent Ratio and Macroeconomic Factors: A {{UK}} Perspective,2023,United Kingdom
+741,loRentBuy21,"Rent or Buy, What Are the Odds? {{Analysing}} the Price-to-Rent Ratio for Housing Types within the {{Northern Ireland}} Housing Market",2021,United Kingdom
+742,loRegionalSpillover24,Regional Spillover of Housing (Un)Affordability: An Empirical Study on the Residential Housing Markets for First-Time Buyers in the {{U}}.{{K}},2024,United Kingdom
+743,lopezochoaHousingPrice23,Housing Price Indices from Online Listing Data: {{Addressing}} the Spatial Bias with Sampling Weights,2023,Chile
+744,maHousingPrice21,Housing Price Dynamics on Residential Construction: {{A}} Case Study of the {{Australian}} Property Sector,2021,Australia
+745,mahadeviaGenderResponsive19,Gender Responsive Budgeting for Indian Cities: {{The}} Case of Bhopal and Pune,2019,India
+746,majumderExploringSpatial25,Exploring Spatial Patterns and Heterogeneity in Rural Household Quality of Living: {{Insights}} from Eastern India,2025,India
+747,marfatiaTimefrequencyLinkages20,Time-Frequency Linkages of International Housing Markets and Macroeconomic Drivers,2020,Multi-Country
+748,marfatiaModelingHouse21,Modeling House Price Synchronization across the {{U}}.{{S}}. States and Their Time-Varying Macroeconomic Linkages,2021,United States
+749,martinsEUHousing21,{{EU}} Housing Markets before Financial Crisis of 2008: {{The}} Role of Institutional Factors and Structural Breaks,2021,Europe
+750,mazurEvaluationQuality22,Evaluation of the Quality of the Housing Environment Using Multi-Criteria Analysis That Includes Energy Efficiency: A Review,2022,Multi-Country
+751,miaoImpactHousing25,The Impact of Housing Prices on an Individual's Perception of Social Safety: {{Evidence}} from Urban China,2025,China
+752,mihicResidentsArchitects24,"Residents' and Architects' Perceptions of Apartments' Spatial Characteristics-Identifying Differences in Opinion on a Case Study of Osijek, Croatia",2024,Croatia
+753,milaniExpectationsMacrohousing19,Expectations and Macro-Housing Interactions in a Small Open Economy: {{Evidence}} from Korea,2019,"Korea, Rep."
+754,milesScottishHome21,Scottish Home Prices: Compatible with {{Euro}} Membership?,2021,United Kingdom
+755,milesHomePrice24,The Home Price--Income Relationship for {{US}} States,2024,United States
+756,mohanImpactMacroeconomic19,Impact of Macroeconomic Indicators on Housing Prices,2019,United States
+757,mottelsonInformalHousing23,On Informal Housing Supply Restrictions and Livelihood in Informal Settlements: {{Implications}} for Sustainable Development,2023,Multi-Country
+758,mukayevHousingAffordability22,Housing Affordability Analysis in {{Kazakhstan}} Based on {{D-HAQ}} Model,2022,Kazakhstan
+759,nailiImportanceSocial24,The Importance of Social Sustainability for Conserving Cultural Heritage in Southern Algeria: A Case Study of the m'zab Valley,2024,Algeria
+760,napoliSocialHousing22,Social Housing and Affordable Rent: {{The}} Effectiveness of Legal Thresholds of Rents in Two Italian Metropolitan Cities,2022,Italy
+761,ngMeasuringSubjective24,"Measuring Subjective Housing Affordability Using a Data-Driven Discrete Information Approach: {{A}} Case Study of {{Selangor}}, {{Malaysia}}",2024,Malaysia
+762,nozdrinaAnalysisState21,Analysis of the State of the Housing Stock of the Far Eastern Regions,2021,Russian Federation
+763,nurdiniEmergingHousing21,"Emerging Housing Choices for Community Resilience Capacity in Flood-Prone Areas of {{Bandung Regency}}, {{Indonesia}}",2021,Indonesia
+764,nymoenEstimationEffects19,Estimation of Effects of Recent Macroprudential Policies in a Sample of Advanced Open Economies,2019,Multi-Country
+765,okuneviciuteneverauskieneHowMacroeconomic25,How Macroeconomic Factors Impact Residential Real Estate Prices in Eastern Europe,2025,Europe
+766,okutaModelingDynamic24,Modeling the Dynamic Effects of Macroeconomic Factors on Housing Performance in {{Kenya}},2024,Kenya
+767,olanrewajuExaminingSurplus24,Examining Surplus and Shortage in Occupied Housing Preference in {{Malaysia}},2024,Malaysia
+768,peterAmericanEnterprise20,American Enterprise Institute Housing Market Indicators,2020,United States
+769,pintoHousingMarket23,"Housing Market Trends: Analyzing Housing Dynamics, Evaluating Mortgage Risk, and Understanding the Impact of Filtering on Affordability",2023,United States
+770,prokopenkoFinancialLeverages23,Financial Leverages of the Regulation of Residential Construction,2023,Ukraine
+771,qusenzumayaSustainableHousing21,Sustainable Housing Indicators and Improving the Quality of Life: {{The}} Case of Two Residential Areas in Baghdad City,2021,Iraq
+772,rajaSustainableHousing21,"Sustainable Housing Practices: {{Spatial}} Analysis of Housing Stress in {{Corvallis}}, {{Oregon}}",2021,United States
+773,rangelMeasuringMalaysian19,Measuring {{Malaysian}} Housing Affordability: The Lifetime Income Approach,2019,Malaysia
+774,rasputinaAnalysisConstruction21,An Analysis of the Construction Industry and the Impact of Taxation on Its Development in the {{Baltic}} and {{Scandinavian}} Countries,2021,Europe
+775,ravichandranMappingHotspot23,Mapping Hotspot Clustering: {{An}} Approach to Study the Spatial Pattern of Quality of Living Households in {{India}},2023,India
+776,rehmanRelationshipPortuguese20,The Relationship between Portuguese Economy Indicators and Housing Prices,2020,Portugal
+777,reyesBuiltIt24,``{{I}} Built It with My Own Hands:'' {{A}} Method to Assess Heterogeneity of Housing Quality in Consolidated Informal Settlements,2024,Mexico
+778,shiEstimatingHousing22,"Estimating Housing Vacancy Rates at Block Level: {{The}} Example of {{Guiyang}}, {{China}}",2022,China
+779,shmygelHousePrice23,House Price Bubble Detection in {{Ukraine}},2023,Ukraine
+780,slavataComparisonHousing24,Comparison of Housing Affordability in Czech and Polish Regions,2024,Multi-Country
+781,songNonlinearHierarchical23,Nonlinear Hierarchical Effects of Housing Prices and Built Environment Based on Multiscale Life Circle-a Case Study of Chengdu,2023,China
+782,spilbergsResidentialMortgage20,Residential Mortgage Loans Delinquencies Analysis and Risk Drivers Assessment,2020,Latvia
+783,stundzieneImpactExternal22,The Impact of External Factors on Housing Prices in {{Lithuania}},2022,Lithuania
+784,stanescuLivingConditions21,Living Conditions in Rural Areas in Romania from 1990 to 2020,2021,Romania
+785,subramaniamConstructingHousing24,Constructing Housing Affordability Index in Malaysia,2024,Malaysia
+786,sungUrbanHeritage22,"Urban Heritage and Its Socioeconomic Impacts in Seoul, South Korea: {{An}} Empirical Study Using Residential Environmental Satisfaction and Housing Price as Indicators",2022,"Korea, Rep."
+787,syrbeAssessmentMonitoring24,Assessment and Monitoring of Local Climate Regulation in Cities by Green Infrastructure---a National Ecosystem Service Indicator for Germany,2024,Germany
+788,tsaiCostEscaping24,Cost of Escaping Air Pollution: {{A}} Way to Prevent Excessive Expansion of Industrial Areas,2024,"Taiwan, China"
+789,tsaiInterregionalRail24,Inter-Regional Rail Travel and Housing Markets Connectedness between {{London}} and Other Regions,2024,United Kingdom
+790,uribetamiQualityChallenge20,Quality as a Challenge. {{A}} Methodological Proposal,2020,Colombia
+791,valibeigiEnhancingUrban20,Enhancing Urban Local Community Identity in {{Iran}} Based on Perceived Residential Environment Quality,2020,"Iran, Islamic Rep."
+792,vasileiouWhatDrives24,What Drives the Real Estate Market? {{Could}} Behavioral Indicators Be Useful in House Pricing Models?,2024,Greece
+793,voonAugmentedMeasurement20,An Augmented Measurement of the Housing Affordability Cycles in {{Malaysia}},2020,Malaysia
+794,wangEffectProximity23,The Effect of Proximity to Universities on House Prices after the {{COVID}} Outbreak,2023,United States
+795,wangHousingAffordability21,Housing Affordability Analysis Based on D-{{HAQ}} Model,2021,China
+796,wangOptimizationPower24,Optimization of Power System Parameters for Multi-Mode Hybrid Electric Vehicles Based on Regional Demand,2024,China
+797,wangHousePrice20,House Price Index Based on Online Listing Information: {{The}} Case of {{China}},2020,China
+798,wangAnalysisTemporal25,Analysis of the Temporal and Spatial Patterns of Residential Prices in Qingdao and Its Driving Factors,2025,China
+799,wangMacroimpactsAir21,Macro-Impacts of Air Quality on Property Values in China-a Meta-Regression Analysis of the Literature,2021,China
+800,wangJointGated23,Joint Gated Co-Attention Based Multi-Modal Networks for Subregion House Price Prediction,2023,United States
+801,wittowskyResidentialHousing20,"Residential Housing Prices: Impact of Housing Characteristics, Accessibility and Neighbouring Apartments--a Case Study of {{Dortmund}}, {{Germany}}",2020,Germany
+802,wuDoesVisual22,Does Visual Contact with Green Space Impact Housing Prices? {{An}} Integrated Approach of Machine Learning and Hedonic Modeling Based on the Perception of Green Space,2022,"Hong Kong SAR, China"
+803,xiResearchMeasurement22,Research on the Measurement Method of Benchmark Price of Rental Housing,2022,China
+804,xuNewAppraisal21,A New Appraisal Model of Second-Hand Housing Prices in China's First-Tier Cities Based on Machine Learning Algorithms,2021,China
+805,yangExploringSpatial23,Exploring the Spatial Correlation between Accessibility to Urban Vibrancy Centers and Housing Price from a Time-Dynamic Perspective,2023,China
+806,yinPredictiveModeling20,Predictive Modeling of {{U}}.{{S}}. {{Housing}} Prices Reveals Key Indicators of Real Estate Prices and Economic Health,2020,United States
+807,yingyiExaminingHeterogeneity25,Examining the Heterogeneity of Geographical and Social Equity of Urban Green Space Exposure at Overhead and Eye Levels,2025,China
+808,yuImpactMonetary19,The Impact of Monetary Policy and Housing-Purchase Restrictions on Housing Prices in China,2019,China
+809,zapotoskyiSocialAffordable21,Social and Affordable Housing in {{Ukraine}}: Mechanism and Practices of Provision,2021,Ukraine
+810,zarghamfardAnalysisSpatial23,An Analysis of Spatial Inequality in {{Tehran Metropolis}}: Applying Selected Residential Quality Indicators to Its 22 Urban Districts,2023,"Iran, Islamic Rep."
+811,zhangGentrificationOutcomes25,"Gentrification Outcomes of Greening in Different Urbanization Stages: {{A}} Longitudinal Analysis of {{Chinese}} Cities, 2012--2020",2025,China
+812,zhang311Calls24,311 Calls and Neighborhood Attributes: {{A}} Panel Study of Housing Prices,2024,United States
+813,zhaoEvaluatingSocial24,Evaluating Social Sustainability of Urban Regeneration in Historic Urban Areas in {{China}}: {{The}} Case of {{Xi}}'an,2024,China
+814,zhuAssessingEffects23,Assessing the Effects of Subjective and Objective Measures on Housing Prices with Street View Imagery: A Case Study of Suzhou,2023,China
+815,hernandez-carrilloConstructionSectors21,Construction Sector's Analysis in the Supply and Demand of Residential Buildings around the Business Management of {{Stakeholders}},2021,Colombia
+816,jonek-kowalskaHousingInfrastructure22,Housing Infrastructure as a Determinant of Quality of Life in Selected Polish Smart Cities,2022,Poland
+817,vergara-perucichUrbanDetermining21,Urban Determining Factors of Housing Prices in {{Chile}}: {{A}} Statistical Exploration,2021,Chile
+818,vandijkLocalConstantquality24,Local Constant-Quality Housing Market Liquidity Indices,2024,Netherlands
+819,huSpatialtemporalEvolution22,Spatial-Temporal Evolution Patterns and Influencing Factors of China's Urban Housing Price-to-Income Ratio,2022,China

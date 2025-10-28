@@ -23,7 +23,7 @@ The database is available in three formats to support different user needs:
 
 - 🏢 **Microsoft Access (.accdb):** For Access users.
 - 🧩 **SQL (.sql):** For use with other relational database systems.
-- 📊 **OpenDocument Spreadsheet (.ods):** For users more comfortable with spreadsheets.
+- 📊 **Comma Separeated Values (.csv):** For users more comfortable with spreadsheets.
 
 > ⚠️ All formats contain identical data and structure.
 
@@ -31,7 +31,7 @@ The database consists of several tables (see **Table 1** in the documentation) a
 
 ### 2️⃣ Bibliographic Information
 
-- A file containing all source references (in **CSV**, **BibTeX**, or both formats).
+- A file containing all source references (in **BibTeX**).
 - Links each indicator to the literature from which it was derived.
 
 ---
