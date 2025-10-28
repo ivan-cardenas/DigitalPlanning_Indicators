@@ -38,7 +38,7 @@ The database consists of several tables (see **Table 1** in the documentation) a
 
 ## 🚀 Usage
 
-1. Download your preferred database format from the [Releases](#) or the [Zenodo Archive](zenodo_link).
+1. Download your preferred database format from the [Releases](https://github.com/ivan-cardenas/DigitalPlanning_Indicators/releases/tag/v1.2) or the [Zenodo Archive](https://doi.org/10.5281/zenodo.17464468).
 2. Use your preferred tool (e.g., Access, SQL manager, spreadsheet editor) to explore the data.
 3. Refer to the documentation for table descriptions and relationships.
 4. Explore the bibliographic file to review the scientific basis for each indicator.
