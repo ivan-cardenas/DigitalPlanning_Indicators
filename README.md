@@ -1,4 +1,4 @@
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17464468.svg)](https://doi.org/10.5281/zenodo.17464468)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17464468.svg)](https://doi.org/10.5281/zenodo.17464468) 
 
 
 # 📊Cross sectoral digital planning Drinking Water-Urban Heat-Housing Provision indicators dataset
@@ -61,7 +61,7 @@ The database consists of several tables (see **Table 1** in the documentation) a
 @misc{Cardenas-Leon_Urban_Indicators_Dataset,
 author = {Cardenas-Leon, Ivan and Nourian, Pirouz and Koeva, Mila and Pfeffer, Karin},
 title = {{Urban Indicators Dataset: Drinking Water, Urban Heat, and Housing Provision}},
-url = {https://github.com/ivan-cardenas/DigitalPlanning_Indicators/}
+url = {https://doi.org/10.1016/j.dib.2025.112310}
 }
 ~~~
 ---
